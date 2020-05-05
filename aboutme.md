@@ -9,7 +9,7 @@ I hold an M.Sc. at the University of Texas at Austin in Statistics. Before that,
 
 I'm marathon runner and music lover. 
 
-
+<img align="right" src="/image/m.jpeg" alt="" width="300">
 
 
 
