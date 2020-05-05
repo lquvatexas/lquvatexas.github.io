@@ -10,7 +10,7 @@ I hold an M.Sc. in Statistics at the University of Texas of Austin, advised by
 
 I'm a marathon runner and music lover. 
 
-It is believed that the gods created the world full of magic and inexhaustible energy. To beings, powers from
+It is believed that the gods created the world full of magic and inexhaustible energy. To human beings, powers from
 three energy sources are the strongest - solar energy, love and imagination. Therefore I would like to choose
 a career I will love, and let my imagination release imprisoned possibilities.
 
