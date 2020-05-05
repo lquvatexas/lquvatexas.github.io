@@ -1,3 +1,10 @@
+---
+layout: page
+title: Publications
+---
+
+
+
 ### Under review:
 
 - **Qiu, L.**, and Vernon M. Chinchilli. (2020). ["Probabilistic Canonical Correlation Analysis for High-dimensional
