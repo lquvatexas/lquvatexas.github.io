@@ -1,11 +1,11 @@
-My research interests are in the areas of **bayesian statistics**, **machine learning**, **time series** and **high dimensional statistics**. I currently focus on understanding the latent representations of multi-view learning and the model interpretability, particularly, recurrent VAE, deep latent variable model. The applications of my research include integrative analysis in genomics omics data, cancer research, and clinical trials.
+My research interests are in the areas of **bayesian statistics**, **machine learning**, **time series** and **high dimensional statistics**. I currently focus on understanding the latent representations of multi-view learning and the model interpretability, particularly, optimization, recurrent VAE, and deep latent variable model. The applications of my research include integrative analysis in genomics omics data, cancer research, and clinical trials.
 
 My career goal is to develop interpretable large-scale statistical learning methods to advance the science of technology and human diseases.
 
 I believe robust statistical learning methods are necessary and important in handling data heteroscedasticity. 
 
 
-I jointly analyzing multivarite time series data (e.g., transcripts, proteins, metabolomics, clinical test, neuroimaging, human motion capture, etc.) and examining the dynamic dependency among them. Particularly, extracting the shared and view-specific dynamic latent embeddings of the complex multimodal data. This leads to more powerful and interpertable understanding the hidden truths. 
+I develop methods for jointly analyzing multivarite time series data (e.g., transcripts, proteins, metabolomics, clinical test, neuroimaging, human motion capture, etc.) and examining the dynamic dependency among them. Particularly, extracting the shared and view-specific dynamic latent embeddings of the complex multimodal data. This leads to more powerful and interpertable understanding the hidden truths. 
 
 Meanwhile, by further examining different hidden subgroups, we can see a more comprehensive view of the entire population.
 
