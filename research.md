@@ -9,7 +9,7 @@ As a result, I focus on jointly analyzing different sources of time series data 
 , particularly, studying the latent embeddings of the complex multimodal time series data through deep neural network and bayesian priors, it leads to more powerful and interpertable understanding the hidden truth. 
 By examining further different subgroups helps give us a more comprehensive view of the entire population.
 
-### talks:
+### Talks:
 
 - Interpretable Recurrent Nonlinear Group Factor Analysis. JSM 2020, Philadelphia, PA (08/2020)
 
