@@ -7,6 +7,9 @@ My name is Lin Qiu, the 4th year statistical machine learning PhD student at Pen
 
 I hold an M.Sc. at the University of Texas at Austin in Statistics. Before that, I was studying biology at Zhejiang University. I am from Sichuan, China.
 
+I'm marathon runner and music lover. 
+
+
 
 
 
