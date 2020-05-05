@@ -10,6 +10,10 @@ I hold an M.Sc. in Statistics at the University of Texas of Austin, advised by
 
 I'm a marathon runner and music lover. 
 
+It is believed that the gods created the world full of magic and inexhaustible energy. To beings, powers from
+three energy sources are the strongest - solar energy, love and imagination. Therefore I would like to choose
+a career I will love, and let my imagination release imprisoned possibilities.
+
 <img align="right" src="/assets/img/ca.jpg" alt="" width="300">
 
 
