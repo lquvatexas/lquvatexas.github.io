@@ -1,13 +1,12 @@
  I work on **bayesian statistics**, **machine learning**, **time series** and **high dimensional statistics**. 
- The applications of my research include integrative analysis in genomics omics data, cancer research, and clinical trial.
+ The applications of my research include integrative analysis in genomics omics data, cancer research, and clinical trials.
 
-My career goal is to develop interpretable large scale statistical learning methods to advance the science of technology and human diseases.
+My career goal is to develop interpretable large-scale statistical learning methods to advance the science of technology and human diseases.
 
-I believe robust statistical learning methods are necessary and important to handle the data heteroscedasticity. 
+I believe robust statistical learning methods are necessary and important in handling data heteroscedasticity. 
 
-I focus on jointly analyzing different sources of time series data (for example, transcripts, proteins, metabolomics, clinical test, neuroimages, human motion capture,etc) and examining the dynamic relationship among them
-, particularly, developing methods for dynamic latent embeddings of the complex multimodal data through deep neural network and bayesian statistics, it leads to more powerful and interpertable understanding the hidden truth. 
-By examining further different subgroups helps give us a more comprehensive view of the entire population.
+I focus on jointly analyzing different sources of time series data (e.g., transcripts, proteins, metabolomics, clinical test, neuroimaging, human motion capture, etc.) and examining the dynamic relationship among them. Particularly, developing methods for dynamic latent embeddings of the complex multimodal data through deep neural network and bayesian statistics. This leads to more powerful and interpertable understanding the hidden truths. 
+By further examining different subgroups, we can see a more comprehensive view of the entire population.
 
 ### Talks:
 
