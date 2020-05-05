@@ -17,7 +17,7 @@ title: Teaching
 
   - Introduction to statistics methods for graduate students: probability, sampling, hypothesis testing, ANOVA, contingency table, correlation and regression.
   
-## Courses at Penn State University
+## Courses at University of Texas, Austin
 ------------------------------------------------------
 ### Lab Instructor (Fall 2013 - Summer 2016):
 -**BIO 206L Laboratory Experiments In Biology: Structure and Function of Organisms**
