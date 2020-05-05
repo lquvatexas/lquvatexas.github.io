@@ -7,7 +7,7 @@ title: Publications
 
 - **Qiu, L.** and Chen,J. ["A Novel Subgroup Identification Method Based on Exhuastive Search".]
 
-- **Qiu, L.**, Chinchilli,V.M., and Lin, L. ["Deep Baysian Multiple Testing and FDR Control".]
+- **Qiu, L.**, Chinchilli,V.M., and Lin, L. ["Baysian Multiple Testing and FDR Control".]
 
 ### Under review:
 
