@@ -3,11 +3,14 @@ layout: page
 title: Publications
 ---
 
+### Working papers:
 
+- **Qiu, L.** and Chen,J. ["A Novel Subgroup Identification Method Based on Exhuastive Search".]
+- **Qiu, L.**, Chinchilli,V.M., and Lin, L. ["Deep Baysian Multiple Testing and FDR Control".]
 
 ### Under review:
 
-- **Qiu, L.**, and Vernon M. Chinchilli. (2020). ["Probabilistic Canonical Correlation Analysis for High-dimensional
+- **Qiu, L.**, and Chinchilli, V.M. (2020). ["Probabilistic Canonical Correlation Analysis for High-dimensional
 Sparse Count Data".]
 
 - **Qiu, L.**, Chinchilli, V.M. and Lin, L. (2020). ["Deep Latent Variable Model for Longitudinal Group Factor Analysis".]
