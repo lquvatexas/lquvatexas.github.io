@@ -5,7 +5,7 @@ My career goal is to develop interpretable large-scale statistical learning meth
 I believe robust statistical learning methods are necessary and important in handling data heteroscedasticity. 
 
 
-I focus on jointly analyzing multivarite time series data (e.g., transcripts, proteins, metabolomics, clinical test, neuroimaging, human motion capture, etc.) and examining the dynamic dependency among them. Particularly, extracting the shared and view-specific dynamic latent embeddings of the complex multimodal data. This leads to more powerful and interpertable understanding the hidden truths. 
+I jointly analyzing multivarite time series data (e.g., transcripts, proteins, metabolomics, clinical test, neuroimaging, human motion capture, etc.) and examining the dynamic dependency among them. Particularly, extracting the shared and view-specific dynamic latent embeddings of the complex multimodal data. This leads to more powerful and interpertable understanding the hidden truths. 
 
 Meanwhile, by further examining different hidden subgroups, we can see a more comprehensive view of the entire population.
 
