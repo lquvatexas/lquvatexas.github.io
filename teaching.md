@@ -7,6 +7,7 @@ title: Teaching
 ### Teaching Assistant (Fall 2016 - Spring 2018):
 
 - **PHS 555 Statistical Methods In Public Health II**
+
  - randomized clinical trials, factorial study designs, crossover study design, linear mixed-effects models for longitudinal data analysis and continuous outcome,GLM, adaptive design in Phase II clinical trial and monitoring.
   
 - **PHS 554 Statistical Methods In Public Health I**
