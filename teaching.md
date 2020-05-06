@@ -8,7 +8,7 @@ title: Teaching
 
 - **PHS 555 Statistical Methods In Public Health II**
 
-  - randomized clinical trials, factorial study designs, crossover study design, linear mixed-effects models for longitudinal data analysis and continuous outcome,GLM, adaptive design in Phase II clinical trial and monitoring.
+  - Randomized clinical trials, factorial study designs, crossover study design, linear mixed-effects models for longitudinal data analysis and continuous outcome,GLM, adaptive design in Phase II clinical trial and monitoring.
   
 - **PHS 554 Statistical Methods In Public Health I**
 
@@ -23,6 +23,5 @@ title: Teaching
 ### Lab Instructor (Fall 2013 - Summer 2016):
 - **BIO 206L Laboratory Experiments In Biology: Structure and Function of Organisms**
 
-  - techniques of Microscopy II Fluorescence, anatomy of the crayfish, ghost shrimp, and amphipoda, physiology of crayfish, urchin & chick reproduction and development, bacterial transformation, representative vetebrate: anatomy of the rats
-dominance behavior of the common cricket, nest recognition in the harvester ant, plant transpiration from the bean leaf, neurophysiology lab, frog sciatic nerve, frog nerve/muscle.
+  - Techniques of Microscopy II Fluorescence, anatomy of the crayfish, ghost shrimp, and amphipoda, physiology of crayfish, urchin & chick reproduction and development, bacterial transformation, representative vetebrate: anatomy of rats, dominance behavior of the common cricket, nest recognition in the harvester ant, plant transpiration from the bean leaf, neurophysiology lab, frog sciatic nerve, frog nerve/muscle.
 
