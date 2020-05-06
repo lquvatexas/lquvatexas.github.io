@@ -1,4 +1,4 @@
-My research interests are in the areas of **bayesian statistics**, **machine learning**, **time series** and **high dimensional statistics**. I currently focus on understanding the latent representations of multi-view learning and the model interpretability, particularly, optimization, recurrent VAE, and deep latent variable model. The applications of my research include integrative analysis in genomics omics data, cancer research, and clinical trials.
+My research interests are in the areas of **Bayesian statistics**, **machine learning**, **time series** and **high dimensional statistics**. I currently focus on understanding the latent representations of multi-view learning and the model interpretability, particularly, optimization, recurrent VAE, and deep latent variable model. The applications of my research include integrative analysis in genomics omics data, cancer research, and clinical trials.
 
 My career goal is to develop interpretable large-scale statistical learning methods to advance the science of technology and human diseases.
 
