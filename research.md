@@ -1,4 +1,4 @@
-My research interests are in the areas of **Bayesian statistics**, **machine learning**, **time series** and **high dimensional statistics**. I currently focus on understanding the latent representations of multi-view learning and the model interpretability, particularly, optimization, RNN, and deep latent variable model. 
+My current research focus on the model interetability and dynamic latent representations of deep learning model in multi-view learning, particularly, optimization, CCA, RNN, and deep latent variable model. 
 
 My career goal is to develop interpretable large-scale statistical learning methods to advance the science of technology and human diseases.
 
