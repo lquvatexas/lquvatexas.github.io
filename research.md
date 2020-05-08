@@ -1,11 +1,11 @@
-My current research focus on the model interetability and dynamic latent representations of deep learning model in multi-view learning, particularly, optimization, CCA, RNN, and deep latent variable model. 
+My current research focus on the interetability and dynamic latent representations of deep learning model in high dimensional temporal data, multi-modal data integration, particularly, optimization, CCA, RNN, Group factor analysis. 
 
 My career goal is to develop interpretable large-scale statistical learning methods to advance the science of technology and human diseases.
 
 I believe robust statistical learning methods are necessary and important in handling data heteroscedasticity. 
 
 
-I develop methods for jointly analyzing multivarite time series data (e.g., transcripts, proteins, metabolomics, clinical test, neuroimaging, human motion capture, etc.) and for examining the dynamic dependency among them. Particularly, extracting the shared and view-specific dynamic latent embeddings of the complex multimodal data. This leads to more powerful and interpertable understanding the hidden truths. 
+For life science applications, I jointly analyzing multivarite time series data (e.g., transcriptomics, proteins, metabolomics, clinical test, neuroimaging, human motion capture, etc.) and for examining the dynamic dependency among them. Particularly, extracting the shared and view-specific dynamic latent embeddings of the complex multimodal data. This leads to more powerful and interpertable understanding the hidden truths. 
 
 Meanwhile, by further examining different hidden subgroups, we can see a more comprehensive view of the entire population and deliver personalized treatment to cure the rare disease. 
 
