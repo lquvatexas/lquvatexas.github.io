@@ -4,11 +4,11 @@ My career goal is to develop interpretable large-scale statistical learning meth
 
 I believe robust statistical learning methods are necessary and important in handling data heteroscedasticity. 
 
-For sequence data in image, voice, or computer vision, by studying the shared and view-specific dynamic latent embeddings of the complex multimodal data. This leads to more powerful prediction and interpertable understanding the hidden truths. 
+For sequence data in image, voice, or computer vision, by studying the shared and view-specific dynamic latent embeddings of the complex multimodal data will lead to more powerful prediction and interpertable understanding the hidden truths. Like human motion capture, surveillance cameras.
 
 For life science, I develop methods for jointly analyzing multivarite time series data (e.g., transcriptomics, proteins, metabolomics, clinical test, neuroimaging, human motion capture, etc.) and for examining the dynamic dependency among them. To construct the dynamic network with associated gene pathways through deep neural network we can gain meaningful insight for the disease progression.
 
-Meanwhile, by further examining different hidden subgroups, we can see a more comprehensive view of the entire population and deliver personalized treatment to cure the rare disease. 
+In precision medicine, by examining different subgroups with the maximized treatment effect, we can see a more comprehensive view of the entire population and deliver personalized treatment to cure the rare disease. 
 
 ### Talks:
 
