@@ -20,7 +20,7 @@ In precision medicine, by examining different subgroups with the maximized treat
 
 - A Novel Subgroup Identification Based on Exhaustive Search[<a href="/slides/Abbvie.pdf" target="_blank">Slides</a>]. AbbVie SDS Seminar, Worcester, MA (08/2019)
 
-- Probabilistic Canonical Correlation Analysis for Multiple Groups[<a href="lquvatexas.github.io/slides/JSM.pdf" target="_blank">Slides</a>]. JSM 2019 , Denver, Colorado (07/2019)
+- Probabilistic Canonical Correlation Analysis for Multiple Groups[<a href="/slides/JSM.pdf" target="_blank">Slides</a>]. JSM 2019 , Denver, Colorado (07/2019)
 
 - A Bayesian Framework for Rewiring the Topological Network of Intratumoral Cell. ENAR 2018, Atlanta, GA (03/2018)
 
