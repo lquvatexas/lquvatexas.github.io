@@ -5,7 +5,7 @@ title: Publications
 
 ### Working papers:
 
-- **Qiu, L.** and Chen, J. (2020) ["A Novel Subgroup Identification Method Based on Exhuastive Search".]
+- **Qiu, L.** and Chen,  J. (2020) ["A Novel Subgroup Identification Method Based on Exhuastive Search".]
 
 - **Qiu, L.**, Chinchilli, V. M. , and Lin, L. (2020+) ["Baysian Multiple Testing and FDR Control".]
 
