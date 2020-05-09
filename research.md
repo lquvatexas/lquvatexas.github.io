@@ -14,7 +14,7 @@ In precision medicine, by examining different subgroups with the maximized treat
 
 - Interpretable Recurrent Nonlinear Group Factor Analysis. JSM 2020, Philadelphia, PA (08/2020)
 
-- Probabilistic Canonical Correlation Analysis for High-dimensional Sparse Count Data. ENAR 2020, Nashville, TN (03/2020)
+- Probabilistic Canonical Correlation Analysis for High-dimensional Sparse Count Data[<a href="lquvatexas.github.io/slides/Abbvie.pdf" target="_blank">Slides</a>]. ENAR 2020, Nashville, TN (03/2020)
 
 - Summer Internship Project. Student Seminar, Hershey, PA (12/2019)
 
