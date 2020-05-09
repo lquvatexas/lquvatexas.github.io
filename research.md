@@ -18,7 +18,7 @@ In precision medicine, by examining different subgroups with the maximized treat
 
 - Summer Internship Project. Student Seminar, Hershey, PA (12/2019)
 
-- A Novel Subgroup Identification Based on Exhaustive Search. AbbVie SDS Seminar, Worcester, MA (08/2019)
+- A Novel Subgroup Identification Based on Exhaustive Search. AbbVie SDS Seminar[slides](<a href="lquvatexas.github.io/slides/Abbvie_Intern.pdf" target="_blank">PDF.</a>), Worcester, MA (08/2019)
 
 - Probabilistic Canonical Correlation Analysis for Multiple Groups. JSM 2019, Denver, Colorado (07/2019)
 
