@@ -9,6 +9,8 @@ title: Publications
 
 - **Qiu, L.**, Chinchilli,V.M., and Lin, L. ["Baysian Multiple Testing and FDR Control".]
 
+- **Qiu, L.**, Lin, L., and Chinchilli,V.M. ["Deep Neural Network for Longitudinal Multi-Omics Analysis".]
+
 ### Under review:
 
 - **Qiu, L.**, and Chinchilli, V.M. (2020). ["Probabilistic Canonical Correlation Analysis for High-dimensional
