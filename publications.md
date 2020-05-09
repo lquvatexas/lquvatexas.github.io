@@ -7,18 +7,18 @@ title: Publications
 
 - **Qiu, L.** and Chen,J. ["A Novel Subgroup Identification Method Based on Exhuastive Search".]
 
-- **Qiu, L.**, Chinchilli,V.M., and Lin, L. ["Baysian Multiple Testing and FDR Control".]
+- **Qiu, L.**, Chinchilli,V. M. , and Lin, L. ["Baysian Multiple Testing and FDR Control".]
 
-- **Qiu, L.**, Lin, L., and Chinchilli,V.M. ["Deep Neural Network for Longitudinal Multi-Omics Analysis".]
+- **Qiu, L.**, Lin, L., and Chinchilli, V. M. ["Deep Neural Network for Longitudinal Multi-Omics Analysis".]
 
 ### Under review:
 
-- **Qiu, L.**, and Chinchilli, V.M. (2020). ["Probabilistic Canonical Correlation Analysis for High-dimensional
+- **Qiu, L.**, and Chinchilli, V. M. (2020). ["Probabilistic Canonical Correlation Analysis for High-dimensional
 Sparse Count Data".]
 
-- **Qiu, L.**, Chinchilli, V.M. and Lin, L. (2020). ["Deep Latent Variable Model for Longitudinal Group Factor Analysis".]
+- **Qiu, L.**, Chinchilli, V. M. and Lin, L. (2020). ["Deep Latent Variable Model for Longitudinal Group Factor Analysis".]
 
-- **Qiu, L.**, Lin, L. and Chinchilli, V.M.  (2020). ["Deep Longitudinal Generalized Canonical Correlation Analysis".]
+- **Qiu, L.**, Lin, L. and Chinchilli, V. M.  (2020). ["Deep Longitudinal Generalized Canonical Correlation Analysis".]
 
 ### Selected Peer-reviewed:
 
