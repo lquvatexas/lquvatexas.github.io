@@ -5,11 +5,11 @@ title: Publications
 
 ### Working papers:
 
-- **Qiu, L.** and Chen,J. ["A Novel Subgroup Identification Method Based on Exhuastive Search".]
+- **Qiu, L.** and Chen,J. (2020) ["A Novel Subgroup Identification Method Based on Exhuastive Search".]
 
-- **Qiu, L.**, Chinchilli,V. M. , and Lin, L. ["Baysian Multiple Testing and FDR Control".]
+- **Qiu, L.**, Chinchilli,V. M. , and Lin, L.(2020+) ["Baysian Multiple Testing and FDR Control".]
 
-- **Qiu, L.**, Lin, L., and Chinchilli, V. M. ["Deep Neural Network for Longitudinal Multi-Omics Analysis".]
+- **Qiu, L.**, Lin, L., and Chinchilli, V. M. (2020+) ["Deep Neural Network for Longitudinal Multi-Omics Analysis".]
 
 ### Under review:
 
