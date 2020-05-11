@@ -9,7 +9,7 @@ title: Publications
 
 - **Qiu, L.**, Chinchilli, V. M. , and Lin, L. (2020+) ["Baysian Multiple Testing and FDR Control".]
 
-- **Qiu, L.**, Lin, L., and Chinchilli, V. M. (2020+) ["Deep Neural Network for Longitudinal Multi-Omics Analysis".]
+- **Qiu, L.**, Lin, L., and Chinchilli, V. M. (2020) ["Interpretable Deep Learning for the Mystery of Disease Progression".]
 
 ### Under review:
 
