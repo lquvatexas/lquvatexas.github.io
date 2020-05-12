@@ -18,7 +18,7 @@ Sparse Count Data".][ArxivPreprint](https://arxiv.org/abs/2005.04837)
 
 - **Qiu, L.**, Chinchilli, V. M. and Lin, L.  (2020). ["Deep Latent Variable Model for Longitudinal Group Factor Analysis".][ArxivPreprint](https://arxiv.org/abs/2005.05210)
 
-- **Qiu, L.**, Lin, L. and Chinchilli, V. M.  (2020). ["Deep Time Series Generalized Canonical Correlation Analysis".][Preprint](https://arxiv.org/submit/0000/view)
+- **Qiu, L.**, Lin, L. and Chinchilli, V. M.  (2020). ["Deep Time Series Generalized Canonical Correlation Analysis".][ArxivPreprint](https://arxiv.org/submit/0000/view)
 
 ### Selected Peer-reviewed:
 
