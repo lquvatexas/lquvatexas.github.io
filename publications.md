@@ -9,7 +9,7 @@ title: Publications
 
 - **Qiu, L.**, Chinchilli, V. M. , and Lin, L. (2020+) ["Baysian Multiple Testing and FDR Control".]
 
-- **Qiu, L.**, Lin, L., and Chinchilli, V. M. (2020) ["Interpretable Deep Learning for the Mystery of Disease Progression".][To be submitted to Nature Methods]
+- **Qiu, L.**, Lin, L., and Chinchilli, V. M. (2020) ["Interpretable Deep Learning for the Mystery of Disease Progression".][**To be submitted to Nature Methods**]
 
 ### Under review:
 
