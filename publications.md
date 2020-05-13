@@ -16,7 +16,7 @@ title: Publications
 - **Qiu, L.**, and Chinchilli, V. M. (2020). ["Probabilistic Canonical Correlation Analysis for High-dimensional
 Sparse Count Data".][[arXiv:2005.04837]](https://arxiv.org/abs/2005.04837)
 
-- **Qiu, L.**, Chinchilli, V. M. and Lin, L.  (2020). ["Deep Latent Variable Model for Longitudinal Group Factor Analysis".][arXiv:2005.05210](https://arxiv.org/abs/2005.05210)
+- **Qiu, L.**, Chinchilli, V. M. and Lin, L.  (2020). ["Deep Latent Variable Model for Longitudinal Group Factor Analysis".][[arXiv:2005.05210]](https://arxiv.org/abs/2005.05210)
 
 - **Qiu, L.**, Lin, L. and Chinchilli, V. M.  (2020). ["Deep Time Series Generalized Canonical Correlation Analysis".]
 
