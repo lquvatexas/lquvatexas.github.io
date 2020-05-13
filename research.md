@@ -1,4 +1,4 @@
-My current research focus on the interpretability and dynamic latent representations of deep learning model in high dimensional temporal data, multi-modal data integration, particularly, optimization, CCA, RNN, Group factor analysis. 
+My current research focus on the interpretability and dynamic latent representations of deep learning model in high dimensional temporal data, particularly, optimization, CCA, RNN, and Group factor analysis. 
 
 My career goal is to develop interpretable large-scale statistical learning methods to advance the science of technology and life science.
 
