@@ -22,12 +22,12 @@ Sparse Count Data".][[arXiv:2005.04837]](https://arxiv.org/abs/2005.04837)
 
 ### Selected Peer-reviewed:
 
-- Zhang, A. H., **Qiu,L.**, Huang, L., and Lu, G., and Cao, J. S. (2012).["Isolation and Characterization of Anther-specific Ploygalacturonase Gene, BcMF16, in Brassica campestris ssp.chinensis".](https://link.springer.com/article/10.1007/s11105-011-0341-2) Plant Molecular Biology Reporter, 30,330-338.
+- Zhang, A. H., **Qiu,L.**, Huang, L., and Lu, G., Cao, J. S. (2012).["Isolation and Characterization of Anther-specific Ploygalacturonase Gene, BcMF16, in Brassica campestris ssp.chinensis".](https://link.springer.com/article/10.1007/s11105-011-0341-2) Plant Molecular Biology Reporter, 30,330-338.
 
-- **Qiu, L.**, Wu, T. T., Dong, H., Wu, L. L., Cao, J. S., and Huang, L. (2013). ["High-level expression of sporamin in transgenic Chinese cabbage enhances
+- **Qiu, L.**, Wu, T. T., Dong, H., Wu, L. L., Cao, J. S., Huang, L. (2013). ["High-level expression of sporamin in transgenic Chinese cabbage enhances
 resistance against diamondback moth".](https://link.springer.com/article/10.1007/s11105-012-0536-1) Plant Molecular Biology Reporter,31,657-664.
 
-- Jiang,J. J. and Jiang, J. X., **Qiu, L.**, Miao, Y., Yao, L. N., Cao, J. S. (2013).["Identification of gene expression profile during
+- Jiang,J. J., Jiang, J. X., **Qiu, L.**, Miao, Y., Yao, L. N., Cao, J. S. (2013).["Identification of gene expression profile during
 fertilization in Brassica campetris subsp. Chinensis".](https://www.nrcresearchpress.com/doi/abs/10.1139/gen-2012-0088#.XrHFvC2ZPys) Genome,56(1),39-48.
 
 - Lin, S., Dong, H., Zhang,F., **Qiu, L.**, Wang,F. Z., Cao, J. S., Huang, L. (2014). ["BcMF8, a putative arabinogalactan protein-encoding gene,contributes to pollen
