@@ -1,7 +1,4 @@
----
-layout: page
-title: Teaching
----
+
 ## Courses at Penn State University
 ------------------------------------------------------
 ### Teaching Assistant (Fall 2016 - Spring 2018):
