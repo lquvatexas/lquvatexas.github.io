@@ -1,7 +1,3 @@
----
-layout: page
-title: Publications
----
 
 ### Working papers:
 
