@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lin Qiu
-subtitle: PhD student in statistical machine learning
+subtitle: PhD student in statistics with concentration on statistical machine learning
 use-site-title: true
 order: 1
 ---
