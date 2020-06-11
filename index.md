@@ -6,7 +6,7 @@ use-site-title: true
 order: 1
 ---
 
-I work on **Bayesian statistics**, **machine learning**, **time series** and **high dimensional statistics**. The applications of my research include integrative analysis in genomics omics data, cancer research, and clinical trials. I'm currently looking for research scientist positions starting in Fall 2020.
+I work on **Bayesian statistics**, **machine learning**, **time series** and **high dimensional statistics**. The applications of my research include integrative analysis in genomics omics data, cancer research, and clinical trials. I'm currently seeking a research scientist position starting in Fall 2020.
 
 #### Contact:
 [Department of Statistics](https://science.psu.edu/stat)  
