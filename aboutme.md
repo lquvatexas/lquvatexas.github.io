@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+
 ---
 
 My name is Lin Qiu, the 4th year Stats/Biostats PhD student at Penn State University, advised by [Dr.Vernon M. Chinchilli](https://en.wikipedia.org/wiki/Vernon_Chinchilli) and [Dr. Lin Lin](http://www.personal.psu.edu/lul37/). I was a research intern at AbbVie SDS (Boston office) working with [Dr. Jie Chen](https://www.linkedin.com/in/jie-cheng-97165119/) during summer 2019. 
