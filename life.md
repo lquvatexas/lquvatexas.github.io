@@ -14,6 +14,6 @@ April 2019 NJ, Marathon
 
 <img align="right" src="/assets/img/Intern.jpeg" alt="" width="300">
 
-<img align="right" src="/assets/img/footbball.jpeg" alt="" width="300">
+<img align="right" src="/assets/img/football.jpeg" alt="" width="300">
 
 
