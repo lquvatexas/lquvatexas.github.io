@@ -18,3 +18,4 @@ April 2019 NJ, Marathon
 
 <img align="right" src="/assets/img/statecollege.jpeg" alt="" width="300">
 
+<img align="right" src="/assets/img/hiking.jpeg" alt="" width="300">
