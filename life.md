@@ -1,7 +1,3 @@
 
-Hiking:
-
-Skiing:
-
-Marathon:
+Hiking, Skiing, Marathon, etc.
 
