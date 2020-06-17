@@ -4,7 +4,7 @@ My name is Lin Qiu, the 4th year Stats/Biostats Ph.D. student at Penn State Univ
  **Ph.D. thesis topic**: Probabilistic statistical learning methods for high-dimensional multivariate data. I was a research intern at [AbbVie SDS](https://en.wikipedia.org/wiki/AbbVie) (Boston office) working with [Dr. Jie Chen](https://www.linkedin.com/in/jie-cheng-97165119/) on subgroup identification for precision medicine during summer 2019.
 
 I hold an M.Sc. in Statistics from the University of Texas at Austin, advised by 
-[Dr.Michael Daniels](http://users.stat.ufl.edu/~daniels/). **Master report topic**: Methods of Genotype Imputation for Genome-wide Association Studies
+[Dr.Michael Daniels](http://users.stat.ufl.edu/~daniels/). **M.S. report topic**: Methods of Genotype Imputation for Genome-wide Association Studies
 
 Before that, I studied cell and molecular biology at [Zhejiang University](https://en.wikipedia.org/wiki/Zhejiang_University). I am from Sichuan, China.
 
