@@ -1,1 +1,7 @@
 
+Hiking:
+
+Skating:
+
+Marathon:
+
