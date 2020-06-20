@@ -17,4 +17,4 @@
 
 <img align="right" src="/assets/img/statecollege.jpeg" alt="" width="300">
 
-<img align="right" src="/assets/img/hiking.jpeg" alt="" width="300">
+<img align="right" src="/assets/img/My Post.jpeg" alt="" width="600">
