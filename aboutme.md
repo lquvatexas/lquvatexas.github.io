@@ -1,6 +1,6 @@
 
 
-My name is Lin Qiu, a 4th year Stats/Biostats Ph.D. student at Penn State University, advised by [Dr.Vernon M. Chinchilli](https://en.wikipedia.org/wiki/Vernon_Chinchilli) and [Dr. Lin Lin](http://www.personal.psu.edu/lul37/). 
+My name is Lin Qiu, a 4th year Biostatistics Ph.D. student at Penn State University, advised by [Dr.Vernon M. Chinchilli](https://en.wikipedia.org/wiki/Vernon_Chinchilli) and [Dr. Lin Lin](http://www.personal.psu.edu/lul37/). 
  **Ph.D. thesis topic**: Probabilistic statistical learning methods for high-dimensional multivariate data. I was a research intern at [AbbVie SDS](https://en.wikipedia.org/wiki/AbbVie) (Boston office) working with [Dr. Jie Chen](https://www.linkedin.com/in/jie-cheng-97165119/) on subgroup identification for precision medicine during summer 2019.
 
 I hold an M.Sc. in Statistics from the University of Texas at Austin, advised by 
