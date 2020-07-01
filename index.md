@@ -11,6 +11,5 @@ I work on **Bayesian statistics**, **deep learning**, **time series** and **high
 #### Contact:
 Thomas building 331 A, [Department of Statistics](https://science.psu.edu/stat)  
 [Penn State University](https://www.psu.edu)
-
 Email: luq7@psu.edu
 
