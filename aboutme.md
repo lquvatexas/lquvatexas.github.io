@@ -14,11 +14,12 @@ It is believed that the gods created the world full of magic and inexhaustible e
 three energy sources are the strongest - solar energy, love and imagination. Therefore I would like to choose
 a career I will love, and let my imagination release imprisoned possibilities.
 
-**AWARDS**
-Graduate Conference Travel Award, 2019 Joint Statistical Meeting, PSU
-Graduation Honor, 2012, Zhejiang University 
-First-Class Scholoarship, 2011, Zhejiang University 
-First-Class Scholorship, 2010, Zhejiang University 
+***AWARDS
+
+- Graduate Conference Travel Award, 2019 Joint Statistical Meeting, PSU
+- Graduation Honor, 2012, Zhejiang University 
+- First-Class Scholoarship, 2011, Zhejiang University 
+- First-Class Scholorship, 2010, Zhejiang University 
 
 
 
