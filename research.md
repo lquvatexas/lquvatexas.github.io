@@ -13,7 +13,8 @@ For life science, I develop methods for jointly analyzing multivarite time serie
 In precision medicine, by examining different subgroups with the maximized treatment effect, we can see a more comprehensive view of the entire population and deliver personalized treatment to cure the rare disease. 
 
 ### Consulting 
-- Characterize the risk of death after diagnosis from the index cancer vs any other cause, as a function of the disease site and follow up time(Big data around 3.5 million patients). PI: Dr. Zaorsky Nicholas
+- Characterize the risk of death after diagnosis from the index cancer vs any other cause, as a function of the disease site and follow up time (Big data around 3.5 million patients)  PI: Dr. Zaorsky Nicholas
+
 Existing methods: XGBoost, Deep Neural Network, Random Forest, Logistic Regression, Navie Bayes, etc.
 
 - Survival Analysis in Cancer Patient Clinical Trial Study. PI: Kathleen Sturgeon
