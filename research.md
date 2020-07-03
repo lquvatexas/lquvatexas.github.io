@@ -17,7 +17,7 @@ In precision medicine, by examining different subgroups with the maximized treat
 
 Existing methods: XGBoost, Deep Neural Network, Random Forest, Logistic Regression, Navie Bayes, etc.
 
-- Survival Analysis in Cancer Patient Clinical Trial Study. PI: Dr. Kathleen Sturgeon
+- Survival Analysis on Cancer Patient Clinical Trial Study. PI: Dr. Kathleen Sturgeon
 
 ### Talks:
 
