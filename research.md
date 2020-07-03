@@ -1,3 +1,5 @@
+### Methodology:
+
 My current research focus on the interpretability and dynamic latent representations of deep learning model in high dimensional temporal data, particularly, optimization, CCA, RNN, and Group factor analysis. 
 
 My career goal is to develop interpretable large-scale statistical learning methods to advance the science of technology and life science.
@@ -9,6 +11,12 @@ For sequence data in image, voice, or computer vision, by studying the shared an
 For life science, I develop methods for jointly analyzing multivarite time series data (e.g., transcriptomics, proteins, metabolomics, clinical test, neuroimaging, human motion capture, etc.) and for examining the dynamic dependency among them. To construct the dynamic network with associated gene pathways through deep neural network we can gain meaningful insight for the disease progression.
 
 In precision medicine, by examining different subgroups with the maximized treatment effect, we can see a more comprehensive view of the entire population and deliver personalized treatment to cure the rare disease. 
+
+### Consulting 
+- Characterize the risk of death after diagnosis from the index cancer vs any other cause, as a function of the disease site and follow up time(Big data around 3.5 million patients). PI: Dr. Zaorsky Nicholas
+Existing methods: XGBoost, Deep Neural Network, Random Forest, Logistic Regression, Navie Bayes, etc.
+
+- Survival Analysis in Cancer Patient Clinical Trial Study. PI: Kathleen Sturgeon
 
 ### Talks:
 
