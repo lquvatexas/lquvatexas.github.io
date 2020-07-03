@@ -1,4 +1,4 @@
-### Methodology:
+
 
 My current research focus on the interpretability and dynamic latent representations of deep learning model in high dimensional temporal data, particularly, optimization, CCA, RNN, and Group factor analysis. 
 
