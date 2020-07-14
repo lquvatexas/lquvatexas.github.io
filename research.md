@@ -17,7 +17,7 @@ For life science, I develop methods for jointly analyzing multivarite time serie
 <img align="right" src="/assets/img/dynamic_m.png" alt="" width="300">
 In precision medicine, by examining different subgroups with the maximized treatment effect, we can see a more comprehensive view of the entire population and deliver personalized treatment to cure the rare disease. 
 
-<img align="right" src="/assets/img/precision.png" alt="" width="300">
+<img align="left" src="/assets/img/precision.png" alt="" width="300">
 
 
 ### Consulting 
