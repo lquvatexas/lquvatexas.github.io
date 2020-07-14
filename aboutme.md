@@ -24,6 +24,7 @@ a career I will love, and let my imagination release imprisoned possibilities.
 
 
 <img align="right" src="/assets/img/ca.jpg" alt="" width="300">
+<img align="right" src="/assets/img/school.png" alt="" width="300">
 
 
 
