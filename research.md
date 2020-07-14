@@ -14,11 +14,11 @@ For sequence data in image, voice, or computer vision, by studying the shared an
 For life science, I develop methods for jointly analyzing multivarite time series data (e.g., transcriptomics, proteins, metabolomics, clinical test, neuroimaging, etc.) and for examining the dynamic dependency among them. To construct the dynamic network with associated gene pathways through deep neural network we can gain meaningful insight for the disease progression.
 
 
-<img align="right" src="/assets/img/dynamic_m.png" alt="" width="400">
+<img align="left" src="/assets/img/dynamic_m.png" alt="" width="400">
 
 In precision medicine, by examining different subgroups with the maximized treatment effect, we can see a more comprehensive view of the entire population and deliver personalized treatment to cure the rare disease. 
 
-<img align="right" src="/assets/img/precision.png" alt="" width="400">
+<img align="left" src="/assets/img/precision.png" alt="" width="400">
 
 
 ### Consulting 
