@@ -6,7 +6,7 @@ My career goal is to develop interpretable large-scale statistical learning meth
 
 I believe robust statistical learning methods are necessary and important in handling data heteroscedasticity. 
 
-<img align="center" src="/assets/img/summary.png" alt="" width="350">
+<img align="center" src="/assets/img/summary.png" alt="" width="400">
 
 For sequence data in image, voice, or computer vision, by studying the shared and view-specific dynamic latent embeddings of the complex multimodal data will lead to more powerful prediction and interpertable understanding the hidden truths. Like human motion capture, surveillance cameras, and friendship interaction in social media (Facebook, Snapchat, etc.).
 <img align="left" src="/assets/img/motion.png" alt="" width="300">
