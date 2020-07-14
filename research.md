@@ -9,16 +9,17 @@ I believe robust statistical learning methods are necessary and important in han
 <img align="center" src="/assets/img/summary.png" alt="" width="800">
 
 For sequence data in image, voice, or computer vision, by studying the shared and view-specific dynamic latent embeddings of the complex multimodal data will lead to more powerful prediction and interpertable understanding the hidden truths. Like human motion capture, surveillance cameras, and friendship interaction in social media (Facebook, Snapchat, etc.).
+
 <img align="left" src="/assets/img/motion.png" alt="" width="350">
 
 For life science, I develop methods for jointly analyzing multivarite time series data (e.g., transcriptomics, proteins, metabolomics, clinical test, neuroimaging, etc.) and for examining the dynamic dependency among them. To construct the dynamic network with associated gene pathways through deep neural network we can gain meaningful insight for the disease progression.
 
 
-<img align="left" src="/assets/img/dynamic_m.png" alt="" width="400">
+<img align="left" src="/assets/img/dynamic_m.png" alt="" width="350">
 
 In precision medicine, by examining different subgroups with the maximized treatment effect, we can see a more comprehensive view of the entire population and deliver personalized treatment to cure the rare disease. 
 
-<img align="left" src="/assets/img/precision.png" alt="" width="400">
+<img align="left" src="/assets/img/precision.png" alt="" width="350">
 
 
 ### Consulting 
