@@ -21,7 +21,6 @@ For life science, I develop methods for jointly analyzing multivarite time serie
 
 In precision medicine, by examining different subgroups with the maximized treatment effect, we can see a more comprehensive view of the entire population and deliver personalized treatment to cure the rare disease. 
 
-
 <img align="left" src="/assets/img/precision.png" alt="" width="400">
 
 
@@ -33,6 +32,7 @@ In precision medicine, by examining different subgroups with the maximized treat
 Existing methods: XGBoost, Deep Neural Network, Random Forest, Logistic Regression, Navie Bayes, etc.
 
 - Survival Analysis on Cancer Patient Clinical Trial Study. PI: Dr. Kathleen Sturgeon
+
 
 ### Talks:
 
