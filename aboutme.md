@@ -1,7 +1,7 @@
 
 
 My name is Lin Qiu, a 4th year Biostatistics Ph.D. student at Penn State University, advised by [Dr. Vernon M. Chinchilli](https://en.wikipedia.org/wiki/Vernon_Chinchilli) and [Dr. Lin Lin](http://www.personal.psu.edu/lul37/). 
- **Ph.D. thesis topic**: Probabilistic statistical learning methods for high-dimensional multivariate data. I was a research intern at [AbbVie SDS](https://en.wikipedia.org/wiki/AbbVie) (Boston office) working with [Dr. Jie Chen](https://www.linkedin.com/in/jie-cheng-97165119/) on subgroup identification for precision medicine during summer 2019.
+ **Ph.D. thesis topic**: Probabilistic statistical learning methods for high-dimensional multivariate data. I was a statistical learning intern at [AbbVie SDS](https://en.wikipedia.org/wiki/AbbVie) (Boston office) working with [Dr. Jie Chen](https://www.linkedin.com/in/jie-cheng-97165119/) on subgroup identification for precision medicine during summer 2019.
 
 I hold an M.Sc. in Statistics from the University of Texas at Austin, advised by 
 [Dr.Michael Daniels](http://users.stat.ufl.edu/~daniels/). **M.S. report topic**: Methods of Genotype Imputation for Genome-wide Association Studies
@@ -17,7 +17,7 @@ a career I will love, and let my imagination release imprisoned possibilities.
 ### EXPERIENCE:
 
 - Research Intern, [Snap Research](https://research.snap.com), Santa Monica, CA,  08/2020 - 12/2020
-- Research Intern, [AbbVie](https://www.abbvie.com/our-company.html?utm_campaign=cc_herenow_2020_rep&utm_medium=psearch&utm_source=google&utm_content=brand%20core&utm_term=abbvie), Cambridge, MA,  05/2019 - 08/2019
+- Statistical Learning Intern, [AbbVie](https://www.abbvie.com/our-company.html?utm_campaign=cc_herenow_2020_rep&utm_medium=psearch&utm_source=google&utm_content=brand%20core&utm_term=abbvie), Cambridge, MA,  05/2019 - 08/2019
 - Data Science Intern (Coporate Program), [Netspend](https://www.netspend.com), Austin, TX,  09/2015 - 12/2015
 
 ### AWARDS:
