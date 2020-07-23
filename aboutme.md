@@ -27,7 +27,12 @@ a career I will love, and let my imagination release imprisoned possibilities.
 - First-Class Scholoarship, 2011, Zhejiang University 
 - First-Class Scholorship, 2010, Zhejiang University 
 
+### MARATHON
 
+- organization descriptionRock ‘n’ Roll DC Marathon March 10th 2018
+- Rock ‘n’ Roll Philadelphia Marathon September 15th 2018 
+- Novo Nordisk NJ Marathon April 27th 2019 
+- Rock ‘n’ Roll DC Marathon March 10th 2020 (rescheduled for COVID 19)
 
 <img align="right" src="/assets/img/ca.jpg" alt="" width="300">
 <img align="right" src="/assets/img/school.png" alt="" width="300">
