@@ -42,7 +42,7 @@ Existing methods: XGBoost, Deep Neural Network, Random Forest, Logistic Regressi
 
 - Deep Latent Variable Model for Learning Longitudinal Multi-view Data. [Genentech](https://www.gene.com), Biostatistics Department, San Francisco, CA (06/2020)
 
-- Probabilistic Canonical Correlation Analysis for High-dimensional Sparse Count Data[<a href="lquvatexas.github.io/slides/ENAR.pdf" target="_blank">Slides</a>]. [ENAR 2020](https://www.enar.org/meetings/spring2020/index.cfm), Count Data: The thought that counts section, Nashville, TN (03/2020)
+- Probabilistic Canonical Correlation Analysis for High-dimensional Sparse Count Data[<a href="lquvatexas.github.io/slides/ENAR.pdf" target="_blank">Slides</a>]. [ENAR 2020](https://www.enar.org/meetings/spring2020/index.cfm), Count Data: The thought that counts Section, Nashville, TN (03/2020)
 
 - Summer Internship Project. Student Seminar, Hershey, PA (12/2019)
 
