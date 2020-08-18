@@ -40,7 +40,7 @@ Existing methods: XGBoost, Deep Neural Network, Random Forest, Logistic Regressi
 
 - Interpretable Recurrent Nonlinear Group Factor Analysis. JSM 2020, Philadelphia, PA (08/2020)
 
-- Deep Latent Variable Model for Learning Longitudinal Multi-view Data. Genentech Biostatistics Department, San Francisco, CA (06/2020)
+- Deep Latent Variable Model for Learning Longitudinal Multi-view Data. [Genentech](https://www.gene.com) Biostatistics Department, San Francisco, CA (06/2020)
 
 - Probabilistic Canonical Correlation Analysis for High-dimensional Sparse Count Data[<a href="lquvatexas.github.io/slides/ENAR.pdf" target="_blank">Slides</a>]. ENAR 2020, Nashville, TN (03/2020)
 
