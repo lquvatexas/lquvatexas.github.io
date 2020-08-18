@@ -36,9 +36,9 @@ Existing methods: XGBoost, Deep Neural Network, Random Forest, Logistic Regressi
 
 ### Talks:
 
-- Deep Latent Variable Model Learning. Snap Research Computational Social Science, Santa Monica, CA (08/2020)
+- Deep Latent Variable Model Learning. [Snap Research](https://research.snap.com/publications) Computational Social Science, Santa Monica, CA (08/2020)
 
-- Interpretable Recurrent Nonlinear Group Factor Analysis. JSM 2020, Philadelphia, PA (08/2020)
+- Interpretable Recurrent Nonlinear Group Factor Analysis. [JSM 2020](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/MainSearchResults.cfm?sponsored_by&sponsorid=501), Statistcal Learning and Data Science Session, Philadelphia, PA (08/2020)
 
 - Deep Latent Variable Model for Learning Longitudinal Multi-view Data. [Genentech](https://www.gene.com) Biostatistics Department, San Francisco, CA (06/2020)
 
