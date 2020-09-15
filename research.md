@@ -46,7 +46,7 @@ Existing methods: XGBoost, Deep Neural Network, Random Forest, Logistic Regressi
 
 - Summer Internship Project. Student Seminar, Hershey, PA (12/2019)
 
-- A Novel Subgroup Identification Based on Exhaustive Search[<a href="/slides/Abbvie.pdf" target="_blank">Slides</a>]. [AbbVie SDS Seminar](https://www.abbvie.com), Worcester, MA (08/2019)
+- A Novel Subgroup Identification Based on Exhaustive Search[<a href="/slides/Abbvie_Intern.pdf" target="_blank">Slides</a>]. [AbbVie SDS Seminar](https://www.abbvie.com), Worcester, MA (08/2019)
 
 - Probabilistic Canonical Correlation Analysis for Multiple Groups[<a href="/slides/JSM.pdf" target="_blank">Slides</a>]. [JSM 2019](https://ww2.amstat.org/meetings/jsm/2019/), Bayesian Statistical Science Section, Denver, Colorado (07/2019)
 
