@@ -1,6 +1,6 @@
 
 
-My current research focus on the interpretability and dynamic latent embeddings of deep learning model in high dimensional temporal data, particularly, Statistical Inference, CCA, RNN, and Multi-view Learning. 
+My current research focus on the interpretability and dynamic latent embeddings of deep learning model in high dimensional temporal data, particularly, Statistical Inference, CCA, RNN, and Multi-view Learning.
 
 My career goal is to develop interpretable large-scale statistical learning methods to advance the science of technology and life science.
 
