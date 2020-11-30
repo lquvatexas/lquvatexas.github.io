@@ -21,10 +21,10 @@ Sparse Count Data".][[arXiv:2005.04837]](https://arxiv.org/abs/2005.04837)
 
 - **Qiu, L.**, Lin, L. and Chinchilli, V. M.  (2020). ["Deep Time Series Generalized Canonical Correlation Analysis".]
 
-- **Qiu,L.**, Llerena, N. L., Sousa, V.S., Lin, L. and Chinchilli, V. M. (2021) ["NeurT-FDR: Learning FDR from Test Level Hypothesis Features"]
+- **Qiu,L.**, Llerena, N. L., Sousa, V. S., Lin, L. and Chinchilli, V. M. (2021) ["NeurT-FDR: Learning FDR from Test Level Hypothesis Features"]
 
-- **Qiu, L.**, Sousa, V.S., Llerena, N.L. (2021) ["Data Mining Approach for Discovering Emerging Patterns in Visual Tags"]
-
+- **Qiu, L.**, Sousa, V. S., Llerena, N. L. (2021) ["Data Mining Approach for Discovering Emerging Patterns in Visual Tags"]
+ 
 ### Selected Peer-reviewed:
 
 - Lin, S., Dong, H., Zhang,F., **Qiu, L.**, Wang,F. Z., Cao, J. S., Huang, L. (2014). ["BcMF8, a putative arabinogalactan protein-encoding gene,contributes to pollen
