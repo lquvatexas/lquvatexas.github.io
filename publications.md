@@ -17,13 +17,13 @@ title: Publications
 - **Qiu, L.**, and Chinchilli, V. M. (2020). ["Probabilistic Canonical Correlation Analysis for High-dimensional
 Sparse Count Data".][[arXiv:2005.04837]](https://arxiv.org/abs/2005.04837)
 
-- **Qiu, L.**, Chinchilli, V. M. and Lin, L.  (2020). ["Deep Latent Variable Model for Learning Longitudinal Multi-view Data".][[arXiv:2005.05210]](https://arxiv.org/abs/2005.05210)
+- **Qiu, L.**, Chinchilli, V. M., and Lin, L.  (2020). ["Deep Latent Variable Model for Learning Longitudinal Multi-view Data".][[arXiv:2005.05210]](https://arxiv.org/abs/2005.05210)
 
-- **Qiu, L.**, Lin, L. and Chinchilli, V. M.  (2020). ["Deep Time Series Generalized Canonical Correlation Analysis".]
+- **Qiu, L.**, Lin, L., and Chinchilli, V. M.  (2020). ["Deep Time Series Generalized Canonical Correlation Analysis".]
 
-- **Qiu,L.**, Llerena, N. L., Sousa, V. S., Lin, L. and Chinchilli, V. M. (2021) ["NeurT-FDR: Learning FDR from Test Level Hypothesis Features"]
+- **Qiu,L.**, Llerena, N. L., Sousa, V. S., Lin, L., and Chinchilli, V. M. (2021) ["NeurT-FDR: Learning FDR from Test Level Hypothesis Features"]
 
-- **Qiu, L.**, Sousa, V. S., Llerena, N. L. (2021) ["Data Mining Approach for Discovering Emerging Patterns in Visual Tags"]
+- **Qiu, L.**, Sousa, V. S., and Llerena, N. L. (2021) ["Data Mining Approach for Discovering Emerging Patterns in Visual Tags"]
  
 ### Selected Peer-reviewed:
 
