@@ -6,11 +6,11 @@ title: Publications
 
 ### Working papers:
 
-- **Qiu, L.** and Chen,  J. (2020) ["A Novel Subgroup Identification Method Based on Exhuastive Search".]
+- **Qiu, L.** and Chen,  J. (2021) ["A Novel Subgroup Identification Method Based on Exhuastive Search".]
 
-- **Qiu, L.**, Chinchilli, V. M. , and Lin, L. (2020) ["Baysian Multiple Testing and FDR Control".]
+- **Qiu, L.**, Chinchilli, V. M. , and Lin, L. (2021) ["Baysian Multiple Testing and FDR Control".]
 
-- **Qiu, L.**, Lin, L., and Chinchilli, V. M. (2020) ["Interpretable Deep Learning for the Mystery of Disease Progression".][**To be submitted to Nature Methods**]
+- **Qiu, L.**, Lin, L., and Chinchilli, V. M. (2021) ["Interpretable Deep Learning for the Mystery of Disease Progression".][**To be submitted to Nature Methods**]
 
 ### Under review:
 
@@ -20,6 +20,10 @@ Sparse Count Data".][[arXiv:2005.04837]](https://arxiv.org/abs/2005.04837)
 - **Qiu, L.**, Chinchilli, V. M. and Lin, L.  (2020). ["Deep Latent Variable Model for Learning Longitudinal Multi-view Data".][[arXiv:2005.05210]](https://arxiv.org/abs/2005.05210)
 
 - **Qiu, L.**, Lin, L. and Chinchilli, V. M.  (2020). ["Deep Time Series Generalized Canonical Correlation Analysis".]
+
+- **Qiu,L.**, Llerena, N. L., Sousa, V.S., Lin, L. and Chinchilli, V. M. (2021) ["NeurT-FDR: Learning FDR from Test Level Hypothesis Features"]
+
+- **Qiu, L.**, Sousa, V.S., Llerena.(2021) ["Data Mining Approach for Discovering Emerging Patterns in Visual Tags"]
 
 ### Selected Peer-reviewed:
 
