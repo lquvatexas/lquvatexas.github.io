@@ -26,6 +26,8 @@ Sparse Count Data".][[arXiv:2005.04837]](https://arxiv.org/abs/2005.04837)
 - **Qiu, L.**, Sousa, V. S., and Llerena, N. L. (2021). ["Data Mining Approach for Discovering Emerging Patterns in Visual Tags"]
  
 ### Selected Peer-reviewed:
+- Sousa, V. S., **Qiu, L.**, and Llerena, N. L. (2021). ["Data Mining Approach for Discovering Emerging Patterns in Visual Tags"] Invention disclosure IDF-00697
+Snap Reference: P01786-US1.
 
 - Lin, S., Dong, H., Zhang,F., **Qiu, L.**, Wang,F. Z., Cao, J. S., Huang, L. (2014). ["BcMF8, a putative arabinogalactan protein-encoding gene,contributes to pollen
 wall development, aperture formation and pollen tube growth in Brassica campetris".](https://academic.oup.com/aob/article/113/5/777/159963) Annals of Botany, 113(5),777-788.
