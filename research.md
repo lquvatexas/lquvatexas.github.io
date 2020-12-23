@@ -1,6 +1,6 @@
 
 
-My current research focus on the interpretability and dynamic latent embeddings of deep learning model in high dimensional temporal data, particularly, Statistical Inference, CCA, RNN, and Multi-view Learning.
+My current research focus on the interpretability and dynamic latent embeddings of deep learning model in temporal data, particularly, multi-view learning, multi-modal data, statistical Inference, and CCA.
 
 My career goal is to develop interpretable large-scale statistical learning methods to advance the science of technology and life science.
 
@@ -34,7 +34,7 @@ Existing methods: XGBoost, Deep Neural Network, Random Forest, Logistic Regressi
 - Survival Analysis on Cancer Patient Clinical Trial Study. PI: Dr. Kathleen Sturgeon
 
 
-### Talks:
+### Invited Talks:
 
 - Deep Latent Variable Model Learning. [Snap Research](https://research.snap.com/publications), Santa Monica, CA (09/2020)
 
