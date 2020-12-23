@@ -6,7 +6,7 @@ use-site-title: true
 order: 1
 ---
 
-I work on **Bayesian statistics**, **deep learning**, **time series** and **high dimensional statistics**. The applications of my research include visual tags pattern mining in social media, integrative analysis in multi-omics sequencing data, medical pathology images, cancer research, and clinical trials. I am interning with [Snap Research](https://research.snap.com) of [Snap Inc.]( https://www.snap.com/en-US/) as a research scientist intern during fall 2020.
+I work on **Bayesian statistics**, **deep learning**, **time series** and **high dimensional statistics**. The applications of my research include user engagement understaning in social media, integrative analysis in multi-omics sequencing data, medical pathology images, cancer research, and clinical trials. I am interning with [Snap Research](https://research.snap.com) of [Snap Inc.]( https://www.snap.com/en-US/) as a research scientist intern during fall 2020.
 
 #### Contact:
 Thomas building 331 A, [Department of Statistics](https://science.psu.edu/stat)  
