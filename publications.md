@@ -23,7 +23,6 @@ Sparse Count Data".][[arXiv:2005.04837]](https://arxiv.org/abs/2005.04837)
 
 - **Qiu, L.**, Llerena, N. L., Sousa, V. S., Lin, L., and Chinchilli, V. M. (2021). ["NeurT-FDR: Learning FDR from Test Level Hypothesis Features"]
 
-- **Qiu, L.**, Sousa, V. S., and Llerena, N. L. (2021). ["Data Mining Approach for Discovering Emerging Patterns in Visual Tags"]
  
 ### Selected Peer-reviewed:
 - Sousa, V. S., **Qiu, L.**, and Llerena, N. L. (2020). ["Data Mining Approach for Discovering Emerging Patterns in Visual Tags"]. Invention disclosure IDF-00697,
