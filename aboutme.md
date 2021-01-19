@@ -3,7 +3,7 @@
 My name is Lin Qiu, a 4th year Biostatistics Ph.D. student at Penn State University, advised by [Dr. Vernon M. Chinchilli](https://en.wikipedia.org/wiki/Vernon_Chinchilli) and [Dr. Lin Lin](http://www.personal.psu.edu/lul37/). 
  **Ph.D. thesis topic**: Probabilistic machine learning methods for high-dimensional multimodal data. I interned with Snap Research (Santa Monica, CA), and AbbVie SDS (Cambridge, MA) during fall 2020, summer 2019.  
 
-I hold an M.Sc. in Statistics from the University of Texas at Austin, advised by 
+I hold an M.S. in Statistics from the University of Texas at Austin, advised by 
 [Dr.Michael Daniels](http://users.stat.ufl.edu/~daniels/). **M.S. report topic**: Methods of Genotype Imputation for Genome-wide Association Studies
 
 Before that, I studied cell and molecular biology at [Zhejiang University](https://en.wikipedia.org/wiki/Zhejiang_University). I am from Sichuan, China.
