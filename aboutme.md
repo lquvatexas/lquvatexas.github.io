@@ -14,7 +14,7 @@ It is believed that the gods created the world full of magic and inexhaustible e
 three energy sources are the strongest - solar energy, love and imagination. Therefore I would like to choose
 a career I will love, and let my imagination release imprisoned possibilities.
 
-### EXPERIENCE:
+### INTERN EXPERIENCE:
 
 - Research Intern, [Snap Inc.](https://www.snap.com/en-US/), Santa Monica, CA,  08/2020 - 12/2020
 - Statistical Learning Intern, [AbbVie](https://www.abbvie.com/our-company.html?utm_campaign=cc_herenow_2020_rep&utm_medium=psearch&utm_source=google&utm_content=brand%20core&utm_term=abbvie), Cambridge, MA,  05/2019 - 08/2019
