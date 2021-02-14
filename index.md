@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lin Qiu
-subtitle: Ph.D. in statistics with concentration on statistical machine learning
+subtitle: Ph.D. in biostatistics with concentration on statistical machine learning
 use-site-title: true
 order: 1
 ---
