@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Lin Qiu
 use-site-title: true
 order: 1
 ---
