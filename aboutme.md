@@ -34,7 +34,6 @@ a career I will love, and let my imagination release imprisoned possibilities.
 - Rock ‘n’ Roll DC Marathon, March 10th 2020 (rescheduled for COVID 19)
 
 <img align="right" src="/assets/img/m.jpg" alt="" width="300">
-
 <img align="right" src="/assets/img/school.png" alt="" width="300">
 
 
