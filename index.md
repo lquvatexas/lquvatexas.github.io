@@ -4,7 +4,7 @@ use-site-title: true
 order: 1
 ---
 
-<img align="right" src="/assets/img/austin.png" alt="" width="300">
+<img align="right" src="/assets/img/ca.png" alt="" width="300">
 
 Welcome to my personal homepage! Email me at: lq666988@gmail.com if you have any question about my research or just want to say "Hi". 
 
