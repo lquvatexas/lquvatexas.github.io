@@ -5,7 +5,7 @@ I interned with [Snap Research](https://research.snap.com) (Santa Monica, CA), a
 I hold an M.S. in Statistics from the University of Texas at Austin, advised by 
 [Dr.Michael Daniels](http://users.stat.ufl.edu/~daniels/). **M.S. report topic**: Methods of Genotype Imputation for Genome-wide Association Studies
 
-Before that, I studied cell and molecular biology at [Zhejiang University](https://en.wikipedia.org/wiki/Zhejiang_University). I am from Sichuan, China.
+Before that, I studied cell and molecular biology under applied biology department at [Zhejiang University](https://en.wikipedia.org/wiki/Zhejiang_University). I am from Sichuan, China.
 
 I'm a marathon runner and music lover. 
 
