@@ -3,7 +3,7 @@
 I interned with [Snap Research](https://research.snap.com) (Santa Monica, CA), and [AbbVie SDS](https://www.abbvie.com) (Cambridge, MA) during fall 2020 and summer 2019.  
 
 I hold an M.S. in Statistics from the University of Texas at Austin, advised by 
-[Dr.Michael Daniels](http://users.stat.ufl.edu/~daniels/). **M.S. report topic**: Methods of Genotype Imputation for Genome-wide Association Studies
+[Dr.Michael Daniels](http://users.stat.ufl.edu/~daniels/). **M.S. report topic**: Methods of Genotype Imputation for Genome-wide Association Studies.
 
 Before that, I studied cell and molecular biology under applied biology department at [Zhejiang University](https://en.wikipedia.org/wiki/Zhejiang_University). I am from Sichuan, China.
 
@@ -22,7 +22,7 @@ a career I will love, and let my imagination release imprisoned possibilities.
 ### AWARDS:
 
 - Graduate Conference Travel Award, 2019 Joint Statistical Meeting, PSU
-- Graduation Honor, 2012, Zhejiang University 
+- Graduation Honor, 2012, top 5%, Zhejiang University 
 - First-Class Scholoarship, 2011, Zhejiang University 
 - First-Class Scholorship, 2010, Zhejiang University 
 
