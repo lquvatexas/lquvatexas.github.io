@@ -4,6 +4,8 @@ use-site-title: true
 order: 1
 ---
 
+<img align="right" src="/assets/img/m.jpg" alt="" width="300">
+
 Welcome to my personal homepage! Email me at: lq666988@gmail.com if you have any question about my research or just want to say "Hi". 
 
 I obtained my PhD degree from Penn State University, where I got rigorous training in both statistics and biostatistics. I was mentored by Prof. Vernon M. Chinchilli and Prof. Lin Lin. 
