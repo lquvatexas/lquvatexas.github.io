@@ -5,7 +5,7 @@ use-site-title: true
 order: 1
 ---
 
-The existence of us lied purely on conditional probability.
+**The existence of us lied purely on conditional probability.**
 
 Welcome to my personal homepage! Email me at: lq666988@gmail.com if you have any question about my research or just want to say "Hi". 
 
