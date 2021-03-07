@@ -1,7 +1,7 @@
 ---
 layout: page
 use-site-title: true
-sub title:dd
+subtitle: The existence of us lies purely on conditional probability
 order: 1
 ---
 
