@@ -14,6 +14,6 @@ I work broadly in the areas of **Bayesian statistics**, **machine learning**, **
 
 I joined the world leading biotech company [Genentech](https://www.gene.com) as a statistical scientist in Feb 2021.
 
-<img align="right" src="/assets/img/bayesian_dl.png" alt="" width="300">
+<img align="right" src="/assets/img/bayesian_dl.png" alt="" width="500">
 
 
