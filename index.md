@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The existence of us lied purely on conditional probability
+subtitle: The existence of us lied purely on conditional probability
 use-site-title: true
 order: 1
 ---
