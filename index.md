@@ -13,6 +13,6 @@ I obtained my PhD degree from [Penn State University](https://www.psu.edu), wher
 
 I work broadly in the areas of **Bayesian statistics**, **machine learning**, **time series**, and **high dimensional statistics**. Specifically, my research interests fall into: 1. Generative Models in Multi-view Learning, with applications in multi-omics data, medical pathology images, and human motion capture data. 2. Probabilistic Deep Multiple Hypothesis Testing, with applications in social media user engagement understanding, genome-wide association studies (GWAS), and biomarker discovery; 3. Subgroup Identification and Personalized Precision Medicine; 4. Time Series Machine Learning and Natural Language Processing (NLP).
 
-After completing my PhD study at PSU, I joined the world leading biotech company [Genentech](https://www.gene.com) as a statistical scientist in Feb 2021.
+After completing my PhD study at PSU, I joined the world leading biotech company [Genentech](https://www.gene.com) as a scientist in statistics in Feb 2021.
 
 <img src="/assets/img/bayesian_dl.png" alt="" width="800">
