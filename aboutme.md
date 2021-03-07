@@ -1,6 +1,6 @@
 
 
-I worked with [Snap Research](https://research.snap.com) (Santa Monica, CA) as a research scientist intern working on user engagement understanding, and [AbbVie SDS](https://www.abbvie.com) (Cambridge, MA) as a statistical research intern on patient subgroup identification for clinical trials during fall 2020 and summer 2019.  
+I worked with [Snap Research](https://research.snap.com) (Santa Monica, CA) as a research scientist intern on user engagement understanding, and [AbbVie SDS](https://www.abbvie.com) (Cambridge, MA) as a statistical research intern on patient subgroup identification for clinical trials during fall 2020 and summer 2019.  
 
 I hold an M.S. in Statistics from the [University of Texas at Austin](https://www.utexas.edu), advised by 
 [Prof.Michael Daniels](http://users.stat.ufl.edu/~daniels/), where I developed a huge interest in statistical methodology research. **M.S. report topic**: Methods of Genotype Imputation for Genome-wide Association Studies.
