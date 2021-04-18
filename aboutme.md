@@ -2,11 +2,6 @@
 
 I worked with [Snap Research](https://research.snap.com) (Santa Monica, CA) as a research scientist intern on user engagement understanding, and [AbbVie SDS](https://www.abbvie.com) (Cambridge, MA) as a statistical research intern on patient subgroup identification for clinical trials during fall 2020 and summer 2019.  
 
-I hold an M.S. in Statistics from the [University of Texas at Austin](https://www.utexas.edu), advised by 
-[Prof.Michael Daniels](http://users.stat.ufl.edu/~daniels/), where I developed a huge interest in statistical methodology research. **M.S. report topic**: Methods of Genotype Imputation for Genome-wide Association Studies.
-
-Before that, I studied cell and molecular biology under applied biology department at [Zhejiang University](https://en.wikipedia.org/wiki/Zhejiang_University). I am from Sichuan, China.
-
 I'm a marathon runner and music lover. 
 
 It is believed that the gods created the world full of magic and inexhaustible energy. To human beings, powers from
@@ -23,8 +18,8 @@ a career I will love, and let my imagination release imprisoned possibilities.
 
 - Graduate Conference Travel Award, 2019 Joint Statistical Meeting, PSU
 - Graduation Honor, top 5%, 2012, Zhejiang University 
-- First-Class Scholoarship, 2011, Zhejiang University 
-- First-Class Scholorship, 2010, Zhejiang University 
+- First-Class Scholarship, 2011, Zhejiang University 
+- First-Class Scholarship, 2010, Zhejiang University 
 
 ### MARATHON
 
