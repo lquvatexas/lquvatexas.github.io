@@ -1,6 +1,6 @@
 
 
-I worked with [Snap Research](https://research.snap.com) (Santa Monica, CA) as a research scientist intern on user engagement understanding, and [AbbVie SDS](https://www.abbvie.com) (Cambridge, MA) as a statistical research intern on patient subgroup identification for clinical trials during fall 2020 and summer 2019.  
+I worked with the inovative engine,[Snap Research](https://research.snap.com), of [Snap Inc.](https://www.snap.com/en-US/), as a research scientist intern on user engagement understanding, and [AbbVie SDS](https://www.abbvie.com) as a statistical intern on patient subgroup identification for clinical trials during fall 2020 and summer 2019.  
 
 I'm a marathon runner and music lover. 
 
