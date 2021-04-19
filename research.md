@@ -36,7 +36,7 @@ Existing methods: XGBoost, Deep Neural Network, Random Forest, Logistic Regressi
 
 ### Invited Talks:
 
-- Deep Interpretable Canonical Correlation Analysis. [ISBA 2021] (https://events.stat.uconn.edu/ISBA2021/), Virtual (07/2021)
+- Deep Interpretable Canonical Correlation Analysis. [ISBA 2021](https://events.stat.uconn.edu/ISBA2021/), Virtual (07/2021)
 
 - Deep Latent Variable Model Learning. [Snap Research](https://research.snap.com/publications), Santa Monica, CA (09/2020)
 
