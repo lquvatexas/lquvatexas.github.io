@@ -36,6 +36,8 @@ Existing methods: XGBoost, Deep Neural Network, Random Forest, Logistic Regressi
 
 ### Invited Talks:
 
+- Deep Interpretable Canonical Correlation Analysis. [ISBA 2021] (https://events.stat.uconn.edu/ISBA2021/), Virtual (07/2021)
+
 - Deep Latent Variable Model Learning. [Snap Research](https://research.snap.com/publications), Santa Monica, CA (09/2020)
 
 - Interpretable Recurrent Nonlinear Group Factor Analysis. [JSM 2020](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/MainSearchResults.cfm?sponsored_by&sponsorid=501), Statistcal Learning and Data Science Section, Philadelphia, PA (08/2020)
