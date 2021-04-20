@@ -14,7 +14,7 @@ I obtained my Ph.D. degree from [Penn State University](https://www.psu.edu), wh
 I hold an M.S. in Statistics from the [University of Texas at Austin](https://www.utexas.edu), advised by 
 [Prof. Michael Daniels](http://users.stat.ufl.edu/~daniels/), where I developed a huge interest in statistical methodology research.
 
-Before that, I studied cell and molecular biology under applied biology department at [Zhejiang University](https://en.wikipedia.org/wiki/Zhejiang_University). I am from Sichuan, China.
+Before that, I studied cell and molecular biology at [Zhejiang University](https://en.wikipedia.org/wiki/Zhejiang_University). I am from Sichuan, China.
 
 I work broadly in the areas of **Bayesian statistics**, **machine learning**, **time series**, and **high dimensional statistics**. Specifically, my research interests fall into: 1. Generative Models in Multimodal Learning, with applications in multi-omics data, medical pathology images, and human motion capture data. 2. Probabilistic Deep Multiple Hypothesis Testing, with applications in social media user engagement understanding, genome-wide association studies (GWAS), and biomarker discovery; 3. Subgroup Identification and Personalized Precision Medicine; 4. Time Series Machine Learning and Natural Language Processing (NLP).
 
