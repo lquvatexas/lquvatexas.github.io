@@ -6,22 +6,24 @@ title: Publications
 
 ### Working papers:
 
-- **Qiu, L.** and Chen,  J. (2021) ["A Novel Subgroup Identification Method Based on Exhuastive Search".]
+- **Qiu, L.** and Chen,  J. (2021) ["A Novel Subgroup Identification Method Based on Exhuastive Search"]
 
-- **Qiu, L.**, Chinchilli, V. M. , and Lin, L. (2021) ["Bayesian Multiple Testing and FDR Control".]
+- **Qiu, L.**, Chinchilli, V. M. , and Lin, L. (2021) ["Bayesian Multiple Testing and FDR Control"]
 
-- **Qiu, L.**, Lin, L., and Chinchilli, V. M. (2021) ["Interpretable Deep Learning for the Mystery of Disease Progression".]
+- **Qiu, L.**, Lin, L., and Chinchilli, V. M. (2021) ["Interpretable Deep Learning for the Mystery of Disease Progression"]
 
 ### Under review:
 
 - **Qiu, L.**, and Chinchilli, V. M. (2020). ["Probabilistic Canonical Correlation Analysis for High-dimensional
-Sparse Count Data".][[arXiv:2005.04837]](https://arxiv.org/abs/2005.04837)
+Sparse Count Data"][[arXiv:2005.04837]](https://arxiv.org/abs/2005.04837)
 
-- **Qiu, L.**, Chinchilli, V. M., and Lin, L.  (2020). ["Deep Latent Variable Model for Learning Longitudinal Multi-view Data".][[arXiv:2005.05210]](https://arxiv.org/abs/2005.05210)
+- **Qiu, L.**, Chinchilli, V. M., and Lin, L.  (2020). ["Deep Latent Variable Model for Learning Longitudinal Multi-view Data"][[arXiv:2005.05210]](https://arxiv.org/abs/2005.05210)
 
 - **Qiu, L.**, Llerena, N. L., Sousa, V. S., Lin, L., and Chinchilli, V. M. (2021). ["NeurT-FDR: Controlling FDR by IncorporatingFeature Hierarchy"][[arXiv:2101.09809]](https://arxiv.org/abs/2101.09809)
 
-- **Qiu, L.**, Lin, L., and Chinchilli, V. M.  (2021). ["Deep Time Series Generalized Canonical Correlation Analysis".] 
+- **Qiu, L.**, Lin, L., and Chinchilli, V. M.  (2021). ["Deep Interpretable Canonical Correlation Analysis"] 
+
+-  Nicholas D’Alonzo1, **Qiu, L.**, et al. (2021). ["WISER Survivor Trial: Combined Effect of Exercise and Weight Loss Intervention on Insulin and Insulin Resistance in Breast Cancer Survivors"]
 
 
 
