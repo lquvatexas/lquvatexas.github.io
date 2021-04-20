@@ -5,7 +5,7 @@ I worked with the innovation engine, [Snap Research](https://research.snap.com),
 I'm a marathon runner and music lover. 
 
 It is believed that the gods created the world full of magic and inexhaustible energy. To human beings, powers from
-three energy sources are the strongest - solar energy, love and imagination. Therefore I would like to choose
+three energy sources are the strongest - solar energy, love and imagination. Therefore I would like to chase
 a career I will love, and let my imagination release imprisoned possibilities.
 
 ### INTERN EXPERIENCE:
