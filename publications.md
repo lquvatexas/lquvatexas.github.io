@@ -23,7 +23,7 @@ Sparse Count Data"][[arXiv:2005.04837]](https://arxiv.org/abs/2005.04837)
 
 - **Qiu, L.**, Lin, L., and Chinchilli, V. M.  (2021). ["Deep Interpretable Canonical Correlation Analysis"] 
 
--  Nicholas D’Alonzo1, **Qiu, L.**, et al. (2021). ["WISER Survivor Trial: Combined Effect of Exercise and Weight Loss Intervention on Insulin and Insulin Resistance in Breast Cancer Survivors"]
+-  Alonzo, N. D.,  **Qiu, L.**, et al. (2021). ["WISER Survivor Trial: Combined Effect of Exercise and Weight Loss Intervention on Insulin and Insulin Resistance in Breast Cancer Survivors"]
 
 
 
