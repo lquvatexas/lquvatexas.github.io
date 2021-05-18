@@ -34,7 +34,7 @@ Existing methods: XGBoost, Deep Neural Network, Random Forest, Logistic Regressi
 - Survival Analysis on Cancer Patient Clinical Trial Study. PI: Dr. Kathleen Sturgeon
 
 
-### Invited Talks:
+### Talks:
 
 - Deep Interpretable Canonical Correlation Analysis. [ISBA 2021](https://events.stat.uconn.edu/ISBA2021/), Virtual (07/2021)
 
