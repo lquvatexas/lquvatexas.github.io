@@ -21,7 +21,7 @@ Sparse Count Data"][[arXiv:2005.04837]](https://arxiv.org/abs/2005.04837)
 
 - **Qiu, L.**, Llerena, N. L., Sousa, V. S., Lin, L., and Chinchilli, V. M. (2021). ["NeurT-FDR: Controlling FDR by IncorporatingFeature Hierarchy"][[arXiv:2101.09809]](https://arxiv.org/abs/2101.09809)
 
-- **Qiu, L.**, Lin, L., and Chinchilli, V. M.  (2021). ["Deep Interpretable Canonical Correlation Analysis"] 
+- **Qiu, L.**, Lin, L., and Chinchilli, V. M.  (2021). ["Generalized Interpretable Canonical Correlation Analysis"] 
 
 -  Alonzo, N. D.,  **Qiu, L.**, et al. (2021). ["WISER Survivor Trial: Combined Effect of Exercise and Weight Loss Intervention on Insulin and Insulin Resistance in Breast Cancer Survivors"]
 
