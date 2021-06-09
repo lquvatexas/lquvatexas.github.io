@@ -14,7 +14,7 @@ Sparse Count Data"][[arXiv:2005.04837]](https://arxiv.org/abs/2005.04837)
 - **Qiu, L.**, Lin, L., and Chinchilli, V. M.  (2021). ["Generalized Interpretable Canonical Correlation Analysis"] 
 
 -  Alonzo, N. D.,  **Qiu, L.**, et al. (2021). ["WISER Survivor Trial: Combined Effect of Exercise and Weight Loss Intervention on Insulin and Insulin Resistance in Breast Cancer Survivors"]
-- Sousa, V. S., **Qiu, L.**, and Llerena, N. L. (2020). ["Data Mining Approach for Discovering Emerging Patterns in Visual Tags"]. Invention disclosure IDF-00697,
+- **Qiu, L.**, Sousa, V. S., and Llerena, N. L. (2020). ["Data Mining Approach for Discovering Emerging Patterns in Visual Tags"]. Invention disclosure IDF-00697,
 Snap Reference: P01786-US1.
 
 - Lin, S., Dong, H., Zhang, F., **Qiu, L.**, Wang, F. Z., Cao, J. S., Huang, L. (2014). ["BcMF8, a putative arabinogalactan protein-encoding gene,contributes to pollen
