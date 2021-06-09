@@ -8,7 +8,7 @@ title: Publications
 
 - **Qiu, L.**, Llerena, N. L., Sousa, V. S., Lin, L., and Chinchilli, V. M. (2021). ["NeurT-FDR: Controlling FDR by IncorporatingFeature Hierarchy"][[arXiv:2101.09809]](https://arxiv.org/abs/2101.09809)
 
--  Alonzo, N. D.,  **Qiu, L.**, et al. (2021). ["WISER Survivor Trial: Combined Effect of Exercise and Weight Loss Intervention on Insulin and Insulin Resistance in Breast Cancer Survivors"][Journal of Clinical Oncology (Under Review)]
+-  Alonzo, N. D.,  **Qiu, L.**, et al. (2021). ["WISER Survivor Trial: Combined Effect of Exercise and Weight Loss Intervention on Insulin and Insulin Resistance in Breast Cancer Survivors"][**Journal of Clinical Oncology (Under Review)**]
 
 - **Qiu, L.**, and Chinchilli, V. M. (2020). ["Probabilistic Canonical Correlation Analysis for High-dimensional
 Sparse Count Data"][[arXiv:2005.04837]](https://arxiv.org/abs/2005.04837)
