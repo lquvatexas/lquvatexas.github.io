@@ -4,6 +4,10 @@ title: Publications
 ---
 
 
+- **Qiu, L.**, Lin, L., and Chinchilli, V. M.  (2021). ["Variational Interpretable Multi-view Learning"][arXiv] 
+
+-  Alonzo, N. D.,  **Qiu, L.**, et al. (2021). ["WISER Survivor Trial: Combined Effect of Exercise and Weight Loss Intervention on Insulin and Insulin Resistance in Breast Cancer Survivors"]
+
 - **Qiu, L.**, and Chinchilli, V. M. (2020). ["Probabilistic Canonical Correlation Analysis for High-dimensional
 Sparse Count Data"][[arXiv:2005.04837]](https://arxiv.org/abs/2005.04837)
 
@@ -11,9 +15,6 @@ Sparse Count Data"][[arXiv:2005.04837]](https://arxiv.org/abs/2005.04837)
 
 - **Qiu, L.**, Llerena, N. L., Sousa, V. S., Lin, L., and Chinchilli, V. M. (2021). ["NeurT-FDR: Controlling FDR by IncorporatingFeature Hierarchy"][[arXiv:2101.09809]](https://arxiv.org/abs/2101.09809)
 
-- **Qiu, L.**, Lin, L., and Chinchilli, V. M.  (2021). ["Variational Interpretable Multi-view Learning"] 
-
--  Alonzo, N. D.,  **Qiu, L.**, et al. (2021). ["WISER Survivor Trial: Combined Effect of Exercise and Weight Loss Intervention on Insulin and Insulin Resistance in Breast Cancer Survivors"]
 - **Qiu, L.**, Sousa, V. S., and Llerena, N. L. (2020). ["Data Mining Approach for Discovering Emerging Patterns in Visual Tags"]. Invention disclosure IDF-00697,
 Snap Reference: P01786-US1.
 
