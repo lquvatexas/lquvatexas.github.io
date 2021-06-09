@@ -4,16 +4,6 @@ title: Publications
 ---
 
 
-### Working papers:
-
-- **Qiu, L.** and Chen,  J. (2021) ["A Novel Subgroup Identification Method Based on Exhuastive Search"]
-
-- **Qiu, L.**, Chinchilli, V. M. , and Lin, L. (2021) ["Bayesian Multiple Testing and FDR Control"]
-
-- **Qiu, L.**, Lin, L., and Chinchilli, V. M. (2021) ["Interpretable Deep Learning for the Mystery of Disease Progression"]
-
-### Preprint:
-
 - **Qiu, L.**, and Chinchilli, V. M. (2020). ["Probabilistic Canonical Correlation Analysis for High-dimensional
 Sparse Count Data"][[arXiv:2005.04837]](https://arxiv.org/abs/2005.04837)
 
@@ -24,11 +14,6 @@ Sparse Count Data"][[arXiv:2005.04837]](https://arxiv.org/abs/2005.04837)
 - **Qiu, L.**, Lin, L., and Chinchilli, V. M.  (2021). ["Generalized Interpretable Canonical Correlation Analysis"] 
 
 -  Alonzo, N. D.,  **Qiu, L.**, et al. (2021). ["WISER Survivor Trial: Combined Effect of Exercise and Weight Loss Intervention on Insulin and Insulin Resistance in Breast Cancer Survivors"]
-
-
-
- 
-### Selected Peer-reviewed:
 - Sousa, V. S., **Qiu, L.**, and Llerena, N. L. (2020). ["Data Mining Approach for Discovering Emerging Patterns in Visual Tags"]. Invention disclosure IDF-00697,
 Snap Reference: P01786-US1.
 
@@ -44,7 +29,11 @@ fertilization in Brassica campetris subsp. Chinensis".](https://www.nrcresearchp
 - Zhang, A. H., **Qiu,L.**, Huang, L., and Lu, G., Cao, J. S. (2012).["Isolation and Characterization of Anther-specific Ploygalacturonase Gene, BcMF16, in Brassica campestris ssp.chinensis".](https://link.springer.com/article/10.1007/s11105-011-0341-2) Plant Molecular Biology Reporter, 30,330-338.
 
 
+### Working papers:
 
+- **Qiu, L.** and Chen,  J. (2021) ["A Novel Subgroup Identification Method Based on Exhuastive Search"]
 
+- **Qiu, L.**, Chinchilli, V. M. , and Lin, L. (2021) ["Bayesian Multiple Testing and FDR Control"]
 
+- **Qiu, L.**, Lin, L., and Chinchilli, V. M. (2021) ["Interpretable Deep Learning for the Mystery of Disease Progression"]
 
