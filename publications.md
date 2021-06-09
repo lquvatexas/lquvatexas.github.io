@@ -12,7 +12,7 @@ title: Publications
 
 - **Qiu, L.**, Lin, L., and Chinchilli, V. M. (2021) ["Interpretable Deep Learning for the Mystery of Disease Progression"]
 
-### Under review:
+### Preprint:
 
 - **Qiu, L.**, and Chinchilli, V. M. (2020). ["Probabilistic Canonical Correlation Analysis for High-dimensional
 Sparse Count Data"][[arXiv:2005.04837]](https://arxiv.org/abs/2005.04837)
