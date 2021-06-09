@@ -36,5 +36,5 @@ fertilization in Brassica campetris subsp. Chinensis".](https://www.nrcresearchp
 
 - **Qiu, L.**, Chinchilli, V. M. , and Lin, L. (2021) ["Bayesian Multiple Testing and FDR Control"]
 
-- **Qiu, L.**, Lin, L., and Chinchilli, V. M. (2021) ["Interpretable Deep Learning for the Mystery of Disease Progression"(Nature Methods (Under Review))]
+- **Qiu, L.**, Lin, L., and Chinchilli, V. M. (2021) ["Interpretable Deep Learning for the Mystery of Disease Progression"(**Nature Methods (Under Review)**)]
 
