@@ -17,6 +17,7 @@ a career I will love, and let my imagination release imprisoned possibilities.
 ### AWARDS:
 
 - Graduate Conference Travel Award, 2019 Joint Statistical Meeting, PSU
+- 2018 Data Mining Cup, 3rd place among teams from U.S. Universities, 2018, Chemnitz, Germany
 - Graduation Honor, top 5%, 2012, Zhejiang University 
 - First-Class Scholarship, 2011, Zhejiang University 
 - First-Class Scholarship, 2010, Zhejiang University 
