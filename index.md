@@ -18,6 +18,6 @@ Before that, I studied cell and molecular biology at [Zhejiang University](https
 
 I work broadly in the areas of **Bayesian statistics**, **machine learning**, **time series**, and **high dimensional statistics**. Specifically, my research interests fall into: 1. Generative Models in Multimodal Learning, with applications on multi-omics data, medical pathology images, and human motion capture data. 2. Probabilistic Deep Multiple Hypothesis Testing, with applications on social media user engagement understanding, genome-wide association studies (GWAS), and biomarker discovery. 3. Subgroup Identification and Personalized Precision Medicine. 4. Time Series Machine Learning and Natural Language Processing (NLP).
 
-After completing my Ph.D. study at Penn State, I joined the world leading biotech company [Genentech](https://www.gene.com) (NO.1 & 业界黄埔军校) as a scientist in statistics in Feb 2021. Currently, I am working on developing machine learning algorithms for large-scale time series data and multimodal learning.  
+After completing my Ph.D. study at Penn State, I joined the world leading biotech company [Genentech](https://www.gene.com) (业界黄埔军校) as a scientist in statistics in Feb 2021. Currently, I am working on developing machine learning algorithms for large-scale time series data and multimodal learning.  
 
 <img src="/assets/img/bayesian_dl.png" alt="" width="800">
