@@ -4,7 +4,7 @@ title: Publications
 ---
 
 
-- **Qiu, L.**, Lin, L., and Chinchilli, V. M.  (2021). ["Variational Interpretable Deep Canonical Correlation Analysis"][arXiv] 
+- **Qiu, L.**, Lin, L., and Chinchilli, V. M.  (2021). ["Variational Sparse Multimodal Learning"][arXiv] 
 
 - **Qiu, L.**, Llerena, N. L., Sousa, V. S., Lin, L., and Chinchilli, V. M. (2021). ["NeurT-FDR: Controlling FDR by IncorporatingFeature Hierarchy"][[arXiv:2101.09809]](https://arxiv.org/abs/2101.09809)
 
