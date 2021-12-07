@@ -16,7 +16,7 @@ I hold an M.S. in Statistics from the [University of Texas at Austin](https://ww
 
 Before that, I studied cell and molecular biology at [Zhejiang University](https://en.wikipedia.org/wiki/Zhejiang_University). I am from Sichuan, China.
 
-I work broadly in the areas of **Probabilistic deep learning**, **latent generative modeling**, **time series**, and **causal inference**. Specifically, my research interests fall into: 1. Generative Models in Multimodal Learning, with applications on multi-omics data, medical pathology images, and human motion capture data. 2. Probabilistic Deep Multiple Hypothesis Testing, with applications on social media user engagement understanding, genome-wide association studies (GWAS), and biomarker discovery. 3. Casual inference in graphical neural network. 4. Time series machine learning for disease progression.
+I work broadly in the areas of **Probabilistic deep learning**, **latent generative modeling**, **time series**. Specifically, my research interests fall into: 1. Generative Models in Multimodal Learning, with applications on multi-omics data, medical pathology images, and human motion capture data. 2. Probabilistic Deep Multiple Hypothesis Testing, with applications on social media user engagement understanding, genome-wide association studies (GWAS), and biomarker discovery. 3. Casual inference in graphical neural network. 4. Time series machine learning for disease progression.
 
 Currently, I am working with the world leading biotech company [Genentech](https://www.gene.com) as an AI research scientist.
 
