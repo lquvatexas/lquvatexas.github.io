@@ -22,8 +22,7 @@ Currently, I am working with the world leading biotech company [Genentech](https
 
 **Journal/AI Conference Reviewer**
 
-ICLR 2022, AISTATS 2022, ICML 2022, NeurIPS 2021, AISTATS 2021, 
-AISTATS 2020, NeurIPS 2020
+ICLR 2022, AISTATS 2022, ICML 2022, NeurIPS 2021, AISTATS 2021, NeurIPS 2020
 
 Statistical Analysis and Data Mining, Biopharmaceutical Statistics, Biostatistics
 
