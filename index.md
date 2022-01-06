@@ -20,12 +20,9 @@ I work broadly in the areas of **Probabilistic deep learning**, **latent generat
 
 Currently, I am working with the world leading biotech company [Genentech](https://www.gene.com) as an AI research scientist.
 
-**AI Conference Reviewer**
+**Journal/AI Conference Reviewer**
 
-**ICML2022, AISTATS2022**
-
-**NeurIPS2021, ICLR2021, AISTATS2021**
-
-**AISTATS2020, NeurIPS2020**
+ICML 2022, AISTATS 2022, NeurIPS 2021, ICLR 2021, AISTATS 2021, AISTATS 2020, NeurIPS 2020
+Statistical Analysis and Data Mining, Biopharmaceutical Statistics, Biostatistics
 
 <img src="/assets/img/bayesian_dl.png" alt="" width="800">
