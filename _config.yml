@@ -14,7 +14,7 @@ navbar-links:
   About me: "aboutme"
   #Research: "research"
   Publications: "publications"
-  Teaching: "teaching"
+  #Teaching: "teaching"
   Life: "life"
  
 # --- Logo --- #
