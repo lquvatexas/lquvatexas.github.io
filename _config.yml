@@ -12,7 +12,7 @@ description: Ph.D.|PSU
 navbar-links:
   Home: "https://lquvatexas.github.io/"
   About me: "aboutme"
-  Research: "research"
+  #Research: "research"
   Publications: "publications"
   Teaching: "teaching"
   Life: "life"
