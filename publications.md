@@ -13,7 +13,7 @@ title: Publications
 - **Qiu, L.**, and Chinchilli, V. M. (2020). ["Probabilistic Canonical Correlation Analysis for High-dimensional
 Sparse Count Data"][[arXiv:2005.04837]](https://arxiv.org/abs/2005.04837)
 
-- **Qiu, L.**, Chinchilli, V. M., and Lin, L.  (2020). ["Deep Latent Variable Model for Learning Longitudinal Multi-view Data"][[arXiv:2005.05210]](https://arxiv.org/abs/2005.05210)[[Github]]()
+- **Qiu, L.**, Chinchilli, V. M., and Lin, L.  (2020). ["Deep Latent Variable Model for Learning Longitudinal Multi-view Data"][[arXiv:2005.05210]](https://arxiv.org/abs/2005.05210)[[Github]](https://github.com/lquvatexas/dlgfa)
 
 - **Qiu, L.**, Sousa, V. S., and Llerena, N. L. (2020). ["Data Mining Approach for Discovering Emerging Patterns in Visual Tags"]. Invention disclosure IDF-00697,
 Snap Reference: P01786-US1.
