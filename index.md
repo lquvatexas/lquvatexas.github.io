@@ -12,7 +12,7 @@ Welcome to my personal homepage! Please reach out to me at lq666988@gmail.com if
 I obtained my Ph.D. degree from [The Pennsylvania State University](https://www.psu.edu), where I received rigorous training in both statistics and machine learning. I was mentored by [Dr. Vernon M. Chinchilli](https://pennstate.pure.elsevier.com/en/persons/vernon-chinchilli) and [Dr. Lynn Lin](http://www.personal.psu.edu/lul37/index.html).
 
 I hold an M.S. in Statistics from the [University of Texas at Austin](https://www.utexas.edu), advised by 
-[Prof. Michael Daniels](http://users.stat.ufl.edu/~daniels/).
+[Dr. Michael Daniels](http://users.stat.ufl.edu/~daniels/).
 
 Before that, I studied cell and molecular biology at [Zhejiang University](https://en.wikipedia.org/wiki/Zhejiang_University). I am from Sichuan, China.
 
