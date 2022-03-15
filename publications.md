@@ -4,7 +4,7 @@ title: Publications
 ---
 
 
-- **Qiu, L.**, Lin, L., and Chinchilli, V. M.  (2022). ["Variational Interpretable Learning for Multimodal Data"][[arXiv:418352]](https://arxiv.org/abs/2202.13503)[[Github]]
+- **Qiu, L.**, Lin, L., and Chinchilli, V. M.  (2022). ["Variational Interpretable Learning for Multimodal Data"][[arXiv:418352]](https://arxiv.org/abs/2202.13503)
 
 - **Qiu, L.**, Llerena, N. L., Sousa, V. S., Lin, L., and Chinchilli, V. M. (2021). ["NeurT-FDR: Controlling FDR by Incorporating Feature Hierarchy"][[arXiv:2101.09809]](https://arxiv.org/abs/2101.09809)[[Github]](https://github.com/snap-research/NeurT-FDR)
 
