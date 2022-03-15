@@ -4,7 +4,7 @@ title: Publications
 ---
 
 
-- **Qiu, L.**, Lin, L., and Chinchilli, V. M.  (2022). ["Variational Interpretable Learning for Multimodal Data"][[arXiv:418352]](https://arxiv.org/abs/2202.13503)
+- **Qiu, L.**, Lin, L., and Chinchilli, V. M.  (2022). ["Variational Interpretable Learning for Multimodal Data"][[arXiv:418352]](https://arxiv.org/abs/2202.13503)[[Github]]
 
 - **Qiu, L.**, Llerena, N. L., Sousa, V. S., Lin, L., and Chinchilli, V. M. (2021). ["NeurT-FDR: Controlling FDR by Incorporating Feature Hierarchy"][[arXiv:2101.09809]](https://arxiv.org/abs/2101.09809)[[Github]](https://github.com/snap-research/NeurT-FDR)
 
@@ -14,7 +14,7 @@ Snap Reference: P01786-US1.
 -  Alonzo, N. D.,  **Qiu, L.**, et al. (2021). ["WISER Survivor Trial: Combined Effect of Exercise and Weight Loss Intervention on Insulin and Insulin Resistance in Breast Cancer Survivors"](https://pubmed.ncbi.nlm.nih.gov/34578984/). Nutrients, 13(9): 3108.
 
 - **Qiu, L.**, and Chinchilli, V. M. (2020). ["Probabilistic Canonical Correlation Analysis for High-dimensional
-Sparse Count Data"][[arXiv:2005.04837]](https://arxiv.org/abs/2005.04837)
+Sparse Count Data"][[arXiv:2005.04837]](https://arxiv.org/abs/2005.04837)[[Github]]
 
 - **Qiu, L.**, Chinchilli, V. M., and Lin, L.  (2020). ["Deep Latent Variable Model for Learning Longitudinal Multi-view Data"][[arXiv:2005.05210]](https://arxiv.org/abs/2005.05210)[[Github]](https://github.com/lquvatexas/dlgfa)
 
