@@ -10,7 +10,7 @@ a career I will love, and let my imagination release imprisoned possibilities.
 
 ### EXPERIENCE:
 
-- AI Scientist, [Genentech](https://www.gene.com), South San Francisco, CA, 02/2021 - 
+- AI/ML Research Scientist, [Genentech](https://www.gene.com), South San Francisco, CA, 02/2021 - 
 
 - Research Scientist Intern, [Snap Inc.](https://www.snap.com/en-US/), Santa Monica, CA,  08/2020 - 12/2020 
 
