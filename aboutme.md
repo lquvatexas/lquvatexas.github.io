@@ -11,6 +11,7 @@ a career I will love, and let my imagination release imprisoned possibilities.
 ### EXPERIENCE:
 
 - AI Research Scientist, [Genentech](https://www.gene.com), South San Francisco, CA, 02/2021 - 
+<img align="right" src="/assets/img/company.png" alt="" width="200">
 
 - Research Scientist Intern, [Snap Inc.](https://www.snap.com/en-US/), Santa Monica, CA,  08/2020 - 12/2020 
 
