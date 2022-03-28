@@ -11,8 +11,11 @@ a career I will love, and let my imagination release imprisoned possibilities.
 ### EXPERIENCE:
 
 - AI Research Scientist, [Genentech](https://www.gene.com), South San Francisco, CA, 02/2021 - <img align="right" src="/assets/img/genentech.png" alt="" width="150">
-- Research Scientist Intern, [Snap Inc.](https://www.snap.com/en-US/), Santa Monica, CA,  08/2020 - 12/2020 <img align="right" src="/assets/img/snapchat.jpg" alt="" width="120">
+
+- Research Scientist Intern, [Snap Inc.](https://www.snap.com/en-US/), Santa Monica, CA,  08/2020 - 12/2020 <img align="right" src="/assets/img/snapchat.jpg" alt="" width="120"> 
+
 - Data and Statistics Intern, [AbbVie](https://www.abbvie.com/our-company.html?utm_campaign=cc_herenow_2020_rep&utm_medium=psearch&utm_source=google&utm_content=brand%20core&utm_term=abbvie), Cambridge, MA,  05/2019 - 08/2019 <img align="right" src="/assets/img/abbvie.png" alt="" width="100">
+
 - Data Science Coporate Program, [Netspend](https://www.netspend.com), Austin, TX,  09/2015 - 12/2015 <img align="right" src="/assets/img/Netspend.png" alt="" width="100">
 
 ### AWARDS:
