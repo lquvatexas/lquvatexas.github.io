@@ -8,10 +8,11 @@ It is believed that the gods created the world full of magic and inexhaustible e
 three energy sources are the strongest - solar energy, love and imagination. Therefore I would like to chase
 a career I will love, and let my imagination release imprisoned possibilities.
 
-### INTERN EXPERIENCE:
+### EXPERIENCE:
 
-- Research Intern, [Snap Inc.](https://www.snap.com/en-US/), Santa Monica, CA,  08/2020 - 12/2020 <img align="right" src="/assets/img/snapchat.jpg" alt="" width="150">
-- Research Intern, [AbbVie](https://www.abbvie.com/our-company.html?utm_campaign=cc_herenow_2020_rep&utm_medium=psearch&utm_source=google&utm_content=brand%20core&utm_term=abbvie), Cambridge, MA,  05/2019 - 08/2019 <img align="right" src="/assets/img/abbvie.png" alt="" width="100">
+- AI Research Scientist, [Genentech](), South San Francisco, CA, 02/2021 - <img align="right" src="/assets/img/snapchat.jpg" alt="" width="150">
+- Research Scientist Intern, [Snap Inc.](https://www.snap.com/en-US/), Santa Monica, CA,  08/2020 - 12/2020 <img align="right" src="/assets/img/snapchat.jpg" alt="" width="150">
+- Data and statistics Intern, [AbbVie](https://www.abbvie.com/our-company.html?utm_campaign=cc_herenow_2020_rep&utm_medium=psearch&utm_source=google&utm_content=brand%20core&utm_term=abbvie), Cambridge, MA,  05/2019 - 08/2019 <img align="right" src="/assets/img/abbvie.png" alt="" width="100">
 - Data Science Coporate Program, [Netspend](https://www.netspend.com), Austin, TX,  09/2015 - 12/2015 <img align="right" src="/assets/img/Netspend.png" alt="" width="100">
 
 ### AWARDS:
