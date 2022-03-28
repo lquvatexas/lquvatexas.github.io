@@ -18,6 +18,7 @@ a career I will love, and let my imagination release imprisoned possibilities.
 
 - Data Science Coporate Program, [Netspend](https://www.netspend.com), Austin, TX,  09/2015 - 12/2015 <img align="left" src="/assets/img/Netspend.png" alt="" width="100">
 
+
 ### AWARDS:
 
 - Graduate Conference Travel Award, 2019 Joint Statistical Meeting, PSU
