@@ -1,6 +1,6 @@
 
 
-I worked with the innovation engine, [Snap Research](https://research.snap.com), of [Snap Inc.](https://www.snap.com/en-US/) as a research scientist intern on user engagement understanding, and [AbbVie SDS](https://www.abbvie.com) as a statistical intern on patient subgroup identification for clinical trials during fall 2020 and summer 2019.  
+I worked with the innovation engine, [Snap Research](https://research.snap.com), of [Snap Inc.](https://www.snap.com/en-US/) as a research scientist intern on user engagement understanding, and [AbbVie SDS](https://www.abbvie.com) as a machine learning intern on patient subgroup identification for clinical trials during fall 2020 and summer 2019.  
 
 I'm a marathon runner and music lover. 
 
@@ -12,7 +12,7 @@ a career I will love, and let my imagination release imprisoned possibilities.
 
 - AI Research Scientist, [Genentech](https://www.gene.com), South San Francisco, CA, 02/2021 - <img align="right" src="/assets/img/company.png" alt="" width="200">
 - Research Scientist Intern, [Snap Inc.](https://www.snap.com/en-US/), Santa Monica, CA,  08/2020 - 12/2020 
-- Data and Statistics Intern, [AbbVie](https://www.abbvie.com), Cambridge, MA,  05/2019 - 08/2019 
+- Machine Learning Intern, [AbbVie](https://www.abbvie.com), Cambridge, MA,  05/2019 - 08/2019 
 - Data Science Coporate Program, [Netspend](https://www.netspend.com), Austin, TX,  09/2015 - 12/2015
 
 
