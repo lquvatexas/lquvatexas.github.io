@@ -18,11 +18,11 @@ Before that, I studied cell and molecular biology at [Zhejiang University](https
 
 I work broadly in the areas of **Probabilistic Deep Learning**, **Causal Inference**, **Computer Vision**. Specifically, my research interests fall into: 1. Generative models in multimodal learning, with applications on multi-omics data, medical pathology images, and human motion capture data. 2. Probabilistic deep multiple hypothesis testing, with applications on social media user engagement understanding, genome-wide association studies (GWAS), and biomarker discovery. 3. Casual inference in graphical neural network. 
 
-Currently, I am working with the world leading biotech company [Genentech](https://www.gene.com) as an AI research scientist.
+Currently, I am working with the world leading biotech company [Genentech Research & Early Development](https://www.gene.com)  as an AI research scientist.
 
 **Journal/AI Conference Reviewer**
 
-ICLR 2022, AISTATS 2022, ICML 2022, NeurIPS 2021, AISTATS 2021, NeurIPS 2020
+NeurIPS 2022, ICLR 2022, AISTATS 2022, ICML 2022, NeurIPS 2021, AISTATS 2021, NeurIPS 2020
 
 Statistical Analysis and Data Mining, Biopharmaceutical Statistics, Biostatistics
 
