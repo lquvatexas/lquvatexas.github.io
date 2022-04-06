@@ -4,7 +4,7 @@ title: Publications
 ---
 
 
-- **Qiu, L.**, Lin, L., and Chinchilli, V. M.  (2022). ["Variational Interpretable Learning for Multimodal Data"][[arXiv:418352]](https://arxiv.org/abs/2202.13503)
+- **Qiu, L.**, Lin, L., and Chinchilli, V. M.  (2022). ["Variational Interpretable Learning for Multi-View Data"][[arXiv:418352]](https://arxiv.org/abs/2202.13503)
 
 - **Qiu, L.**, Lin, L., and Chinchilli, V. M.  (2022). ["Variational Interpretable Deep Canonical Correlation Analysis"].[arXiv]**Machine Learning in Drug Discovery Workshop, ICLR 2022**.
 
