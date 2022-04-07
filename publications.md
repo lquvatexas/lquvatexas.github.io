@@ -8,7 +8,7 @@ title: Publications
 
 - **Qiu, L.**, Lin, L., and Chinchilli, V. M.  (2022). ["Variational Interpretable Deep Canonical Correlation Analysis"].[arXiv]**Machine Learning in Drug Discovery Workshop, ICLR 2022**.
 
-- **Qiu, L.**, Llerena, N. L., Sousa, V. S., Lynn, L., and Chinchilli, V. M. (2021). ["NeurT-FDR: Controlling FDR by Incorporating Feature Hierarchy"][[arXiv:2101.09809]](https://arxiv.org/abs/2101.09809)[[Github]](https://github.com/snap-research/NeurT-FDR)
+- **Qiu, L.**, Llerena, N. L., Sousa, V. S., Lin, L., and Chinchilli, V. M. (2021). ["NeurT-FDR: Controlling FDR by Incorporating Feature Hierarchy"][[arXiv:2101.09809]](https://arxiv.org/abs/2101.09809)[[Github]](https://github.com/snap-research/NeurT-FDR)
 
 - **Qiu, L.**, Sousa, V. S., and Llerena, N. L. (2021). ["Data Mining Approach for Discovering Emerging Patterns in Visual Tags"]. Invention disclosure IDF-00697,
 Snap Reference: P01786-US1.
