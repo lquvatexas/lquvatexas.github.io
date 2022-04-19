@@ -6,7 +6,7 @@ title: Publications
 
 - **Qiu, L.**, Lin, L., and Chinchilli, V. M.  (2022). ["Variational Interpretable Learning for Multi-View Data"][[arXiv:418352]](https://arxiv.org/abs/2202.13503)
 
-- **Qiu, L.**, Lin, L., and Chinchilli, V. M.  (2022). ["Variational Interpretable Deep Canonical Correlation Analysis"].[[arXiv]](https://openreview.net/forum?id=Gzare7_sTAJ&referrer=[the%20profile%20of%20Lin%20Qiu](/profile?id=~Lin_Qiu1)) **International Conference on Learning Representations (ICLR 2022), Workshop on Machine Learning for Drug Discovery**
+- **Qiu, L.**, Lin, L., and Chinchilli, V. M.  (2022). ["Variational Interpretable Deep Canonical Correlation Analysis"].[[arXiv]](https://openreview.net/forum?id=Gzare7_sTAJ&referrer=[the%20profile%20of%20Lin%20Qiu](/profile?id=~Lin_Qiu1)) **International Conference on Learning Representations (ICLR 2022), Workshop on Machine Learning for Drug Discovery.**
 
 - **Qiu, L.**, Llerena, N. L., Sousa, V. S., Lin, L., and Chinchilli, V. M. (2021). ["NeurT-FDR: Controlling FDR by Incorporating Feature Hierarchy"][[arXiv:2101.09809]](https://arxiv.org/abs/2101.09809)[[Github]](https://github.com/snap-research/NeurT-FDR)
 
