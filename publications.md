@@ -26,7 +26,7 @@ resistance against diamondback moth".](https://link.springer.com/article/10.1007
 
 ### Working papers:
 
-- **Qiu, L.**, Chinchilli, V. M. , and Lin, L. (2021) ["Bayesian Multiple Testing and FDR Control"]
+- **Qiu, L.**, et al. (2022) ["Bayesian Multiple Testing and FDR Control"]
 
-- **Qiu, L.**, Lin, L., and Chinchilli, V. M. (2021) ["Interpretable Deep Learning for the Mystery of Disease Progression"][**In submission Nature Methods**]
+- **Qiu, L.**, et al. (2022) ["Interpretable Deep Learning for the Mystery of Disease Progression"][**In submission Nature Methods**]
 
