@@ -30,3 +30,7 @@ resistance against diamondback moth".](https://link.springer.com/article/10.1007
 
 - **Qiu, L.**, et al. (2022) ["Interpretable Deep Learning for the Mystery of Disease Progression"][**In submission Nature Methods**]
 
+- **Qiu, L.**, et al. (2022) ["Deep Pathology Genomic Multimodal Survival Prediction"]
+
+
+
