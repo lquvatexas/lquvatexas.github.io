@@ -8,9 +8,9 @@ title: Publications
 
 - **Qiu, L.**, Lin, L., and Chinchilli, V. M.  (2022). ["Variational Interpretable Deep Canonical Correlation Analysis"].[[arXiv]](https://openreview.net/forum?id=Gzare7_sTAJ&referrer=[the%20profile%20of%20Lin%20Qiu](/profile?id=~Lin_Qiu1)) International Conference on Learning Representations (**ICLR 2022**), Workshop on Machine Learning for Drug Discovery.
 
-- **Qiu, L.**, Llerena, N. L., Sousa, V. S., Lin, L., and Chinchilli, V. M. (2021). ["NeurT-FDR: Controlling FDR by Incorporating Feature Hierarchy"][[arXiv:2101.09809]](https://arxiv.org/abs/2101.09809)[[Github]](https://github.com/snap-research/NeurT-FDR)
+- **Qiu, L.**, Sousa, V. S., and Llerena, N. L. (2022). ["Visual Tag Emerging Pattern Detection"](https://www.freepatentsonline.com/20220188548.pdf). US Patent App. 17/120, 933, 2022.
 
-- **Qiu, L.**, Sousa, V. S., and Llerena, N. L. (2021). ["Visual Tag Emerging Pattern Detection"](https://www.freepatentsonline.com/20220188548.pdf). US Patent App. 17/120, 933, 2022.
+- **Qiu, L.**, Llerena, N. L., Sousa, V. S., Lin, L., and Chinchilli, V. M. (2021). ["NeurT-FDR: Controlling FDR by Incorporating Feature Hierarchy"][[arXiv:2101.09809]](https://arxiv.org/abs/2101.09809)[[Github]](https://github.com/snap-research/NeurT-FDR)
 
 -  Alonzo, N. D.,  **Qiu, L.**, et al. (2021). ["WISER Survivor Trial: Combined Effect of Exercise and Weight Loss Intervention on Insulin and Insulin Resistance in Breast Cancer Survivors"](https://pubmed.ncbi.nlm.nih.gov/34578984/). Nutrients, 13(9): 3108.
 
