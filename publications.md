@@ -10,7 +10,7 @@ title: Publications
 
 - **Qiu, L.**, Llerena, N. L., Sousa, V. S., Lin, L., and Chinchilli, V. M. (2021). ["NeurT-FDR: Controlling FDR by Incorporating Feature Hierarchy"][[arXiv:2101.09809]](https://arxiv.org/abs/2101.09809)[[Github]](https://github.com/snap-research/NeurT-FDR)
 
-- **Qiu, L.**, Sousa, V. S., and Llerena, N. L. (2021). [["Visual Tag Emerging Pattern Detection"]](https://www.freepatentsonline.com/20220188548.pdf). US Patent App. 17/120, 933, 2022.
+- **Qiu, L.**, Sousa, V. S., and Llerena, N. L. (2021). ["Visual Tag Emerging Pattern Detection"](https://www.freepatentsonline.com/20220188548.pdf). US Patent App. 17/120, 933, 2022.
 
 -  Alonzo, N. D.,  **Qiu, L.**, et al. (2021). ["WISER Survivor Trial: Combined Effect of Exercise and Weight Loss Intervention on Insulin and Insulin Resistance in Breast Cancer Survivors"](https://pubmed.ncbi.nlm.nih.gov/34578984/). Nutrients, 13(9): 3108.
 
