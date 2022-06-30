@@ -18,7 +18,7 @@ a career I will love, and let my imagination release imprisoned possibilities.
 
 ### AWARDS:
 
-- Graduate Conference Travel Award, 2019 Joint Statistical Meeting, PSU
+- Graduate Conference Travel Award, 2019 Joint Statistical Meeting, JSM 2019, PSU
 - Data Mining Cup International Student Competition, 3rd place among teams from U.S. Universities, 2018, Prudsys AG, Germany
 - Graduation Honor, top 5%, 2012, Zhejiang University 
 - First-Class Outstanding Scholarship (10%), 2011, Zhejiang University 
