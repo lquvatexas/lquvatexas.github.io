@@ -4,7 +4,7 @@ title: Publications
 ---
 
 
-- **Qiu, L.**, Lin, L., and Chinchilli, V. M.  (2022). ["Variational Interpretable Learning for Multi-View Data"][[arXiv:418352]](https://arxiv.org/abs/2202.13503)
+- **Qiu, L.**, Lin, L., and Chinchilli, V. M.  (2022). ["Variational Interpretable Learning for Multi-View Data"][[arXiv]](https://arxiv.org/abs/2202.13503)
 
 - **Qiu, L.**, Lin, L., and Chinchilli, V. M.  (2022). ["Variational Interpretable Deep Canonical Correlation Analysis"].[[arXiv]](https://openreview.net/forum?id=Gzare7_sTAJ&referrer=[the%20profile%20of%20Lin%20Qiu](/profile?id=~Lin_Qiu1)) 11th International Conference on Learning Representations (**ICLR 2022**), Workshop on Machine Learning for Drug Discovery.
 
@@ -15,9 +15,9 @@ title: Publications
 -  Alonzo, N. D.,  **Qiu, L.**, et al. (2021). ["WISER Survivor Trial: Combined Effect of Exercise and Weight Loss Intervention on Insulin and Insulin Resistance in Breast Cancer Survivors"](https://pubmed.ncbi.nlm.nih.gov/34578984/). **Nutrients**, 13(9): 3108.
 
 - **Qiu, L.**, and Chinchilli, V. M. (2020). ["Probabilistic Canonical Correlation Analysis for High-dimensional
-Sparse Count Data"] **JSR Revision**,[[arXiv:2005.04837]](https://arxiv.org/abs/2005.04837)[[Github]](https://github.com/lquvatexas?tab=repositories)
+Sparse Count Data"] **JSR Revision**,[[arXiv]](https://arxiv.org/abs/2005.04837)[[Github]](https://github.com/lquvatexas?tab=repositories)
 
-- **Qiu, L.**, Chinchilli, V. M., and Lin, L.  (2020). ["Deep Latent Variable Model for Learning Longitudinal Multi-view Data"][[arXiv:2005.05210]](https://arxiv.org/abs/2005.05210)[[Github]](https://github.com/lquvatexas/dlgfa)
+- **Qiu, L.**, Chinchilli, V. M., and Lin, L.  (2020). ["Deep Latent Variable Model for Learning Longitudinal Multi-view Data"][[arXiv]](https://arxiv.org/abs/2005.05210)[[Github]](https://github.com/lquvatexas/dlgfa)
 
 - **Qiu, L.**, Wu, T. T., Dong, H., Wu, L. L., Cao, J. S., Huang, L. (2013). ["High-level expression of sporamin in transgenic Chinese cabbage enhances
 resistance against diamondback moth".](https://link.springer.com/article/10.1007/s11105-012-0536-1) **Plant Molecular Biology Reporter**, 31, 657-664.
