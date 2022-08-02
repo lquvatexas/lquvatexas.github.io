@@ -8,11 +8,12 @@ title: Publications
 
 - **Qiu, L.**, Lin, L., and Chinchilli, V. M.  (2022). ["Variational Interpretable Deep Canonical Correlation Analysis"].[[arXiv]](https://openreview.net/forum?id=Gzare7_sTAJ&referrer=[the%20profile%20of%20Lin%20Qiu](/profile?id=~Lin_Qiu1)) International Conference on Learning Representations (**ICLR 2022**), Workshop on Machine Learning for Drug Discovery.
 
+- **Qiu, L.**, Llerena, N. L., Sousa, V. S., Lin, L., and Chinchilli, V. M. (2022). ["NeurT-FDR: Controlling FDR by Incorporating Feature Hierarchy"][[arXiv:2101.09809]](https://arxiv.org/abs/2101.09809)[[Github]](https://github.com/snap-research/NeurT-FDR) 31th ACM International Conference on Information and Knowledge Management (**CIKM 2022**)
+- 
 - **Qiu, L.**, Sousa, V. S., and Llerena, N. L. (2022). ["Visual Tag Emerging Pattern Detection"](https://www.freepatentsonline.com/20220188548.pdf). US Patent App. 17/120, 933, 2022.
 
-- **Qiu, L.**, Llerena, N. L., Sousa, V. S., Lin, L., and Chinchilli, V. M. (2021). ["NeurT-FDR: Controlling FDR by Incorporating Feature Hierarchy"][[arXiv:2101.09809]](https://arxiv.org/abs/2101.09809)[[Github]](https://github.com/snap-research/NeurT-FDR) 31th ACM International Conference on Information and Knowledge Management (**CIKM 2022**)
 
--  Alonzo, N. D.,  **Qiu, L.**, et al. (2021). ["WISER Survivor Trial: Combined Effect of Exercise and Weight Loss Intervention on Insulin and Insulin Resistance in Breast Cancer Survivors"](https://pubmed.ncbi.nlm.nih.gov/34578984/). Nutrients, 13(9): 3108.
+-  Alonzo, N. D.,  **Qiu, L.**, et al. (2021). ["WISER Survivor Trial: Combined Effect of Exercise and Weight Loss Intervention on Insulin and Insulin Resistance in Breast Cancer Survivors"](https://pubmed.ncbi.nlm.nih.gov/34578984/). (**Nutrients**), 13(9): 3108.
 
 - **Qiu, L.**, and Chinchilli, V. M. (2020). ["Probabilistic Canonical Correlation Analysis for High-dimensional
 Sparse Count Data"][[arXiv:2005.04837]](https://arxiv.org/abs/2005.04837)[[Github]](https://github.com/lquvatexas?tab=repositories)
@@ -20,7 +21,7 @@ Sparse Count Data"][[arXiv:2005.04837]](https://arxiv.org/abs/2005.04837)[[Githu
 - **Qiu, L.**, Chinchilli, V. M., and Lin, L.  (2020). ["Deep Latent Variable Model for Learning Longitudinal Multi-view Data"][[arXiv:2005.05210]](https://arxiv.org/abs/2005.05210)[[Github]](https://github.com/lquvatexas/dlgfa)
 
 - **Qiu, L.**, Wu, T. T., Dong, H., Wu, L. L., Cao, J. S., Huang, L. (2013). ["High-level expression of sporamin in transgenic Chinese cabbage enhances
-resistance against diamondback moth".](https://link.springer.com/article/10.1007/s11105-012-0536-1) Plant Molecular Biology Reporter, 31, 657-664.
+resistance against diamondback moth".](https://link.springer.com/article/10.1007/s11105-012-0536-1) (**Plant Molecular Biology Reporter**), 31, 657-664.
 
 
 ### Working papers:
