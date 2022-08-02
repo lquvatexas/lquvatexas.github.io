@@ -15,7 +15,7 @@ title: Publications
 -  Alonzo, N. D.,  **Qiu, L.**, et al. (2021). ["WISER Survivor Trial: Combined Effect of Exercise and Weight Loss Intervention on Insulin and Insulin Resistance in Breast Cancer Survivors"](https://pubmed.ncbi.nlm.nih.gov/34578984/). **Nutrients**, 13(9): 3108.
 
 - **Qiu, L.**, and Chinchilli, V. M. (2020). ["Probabilistic Canonical Correlation Analysis for High-dimensional
-Sparse Count Data"][[arXiv:2005.04837]](https://arxiv.org/abs/2005.04837)[[Github]](https://github.com/lquvatexas?tab=repositories) **JSR Revision**
+Sparse Count Data"][[arXiv:2005.04837]](https://arxiv.org/abs/2005.04837)[[Github]](https://github.com/lquvatexas?tab=repositories) **JSR Revision**.
 
 - **Qiu, L.**, Chinchilli, V. M., and Lin, L.  (2020). ["Deep Latent Variable Model for Learning Longitudinal Multi-view Data"][[arXiv:2005.05210]](https://arxiv.org/abs/2005.05210)[[Github]](https://github.com/lquvatexas/dlgfa)
 
