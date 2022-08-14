@@ -6,7 +6,7 @@ title: Publications
 
 - **Qiu, L.**, Lin, L., and Chinchilli, V. M.  (2022). ["Variational Interpretable Learning for Multi-View Data"] [[arXiv]](https://arxiv.org/abs/2202.13503)
 
-- **Qiu, L.**, Lin, L., and Chinchilli, V. M.  (2022). ["Variational Interpretable Deep Canonical Correlation Analysis"]. 11th International Conference on Learning Representations, Machine Learning for Drug Discovery Workshop (**ICLR 2022**) [[arXiv]](https://openreview.net/forum?id=Gzare7_sTAJ&referrer=[the%20profile%20of%20Lin%20Qiu](/profile?id=~Lin_Qiu1)) 
+- **Qiu, L.**, Lin, L., and Chinchilli, V. M.  (2022). ["Variational Interpretable Deep Canonical Correlation Analysis"]. International Conference on Learning Representations, Machine Learning for Drug Discovery Workshop (**ICLR 2022**) [[arXiv]](https://openreview.net/forum?id=Gzare7_sTAJ&referrer=[the%20profile%20of%20Lin%20Qiu](/profile?id=~Lin_Qiu1)) 
 
 - **Qiu, L.**, Llerena, N. L., Sousa, V. S., Lin, L., and Chinchilli, V. M. (2022). ["NeurT-FDR: Controlling FDR by Incorporating Feature Hierarchy"]. ACM International Conference on Information and Knowledge Management (**CIKM 2022**) [[arXiv]](https://arxiv.org/abs/2101.09809)[[Github]](https://github.com/lquvatexas/NeurT-FDR)
 
@@ -17,7 +17,7 @@ title: Publications
 - **Qiu, L.**, and Chinchilli, V. M. (2020). ["Probabilistic Canonical Correlation Analysis for High-dimensional
 Sparse Count Data"] **JSR Revision** [[arXiv]](https://arxiv.org/abs/2005.04837)[[Github]](https://github.com/lquvatexas?tab=repositories)
 
-- **Qiu, L.**, Chinchilli, V. M., and Lin, L.  (2020). ["Deep Latent Variable Model for Learning Longitudinal Multi-view Data"] [[arXiv]](https://arxiv.org/abs/2005.05210)[[Github]](https://github.com/lquvatexas/dlgfa)
+- **Qiu, L.**, Chinchilli, V. M., and Lin, L.  (2020). ["Deep Latent Variable Model for Learning Longitudinal Multi-view Data"] [[arXiv]](https://arxiv.org/abs/2005.05210)[[Github]](https://github.com/lquvatexas/DLGFA)
 
 - **Qiu, L.**, Wu, T. T., Dong, H., Wu, L. L., Cao, J. S., Huang, L. (2013). ["High-level expression of sporamin in transgenic Chinese cabbage enhances
 resistance against diamondback moth".](https://link.springer.com/article/10.1007/s11105-012-0536-1) **Plant Molecular Biology Reporter**, 31, 657-664.
