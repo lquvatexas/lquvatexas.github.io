@@ -15,7 +15,7 @@ title: Publications
 -  Alonzo, N. D.,  **Qiu, L.**, et al. (2021). ["WISER Survivor Trial: Combined Effect of Exercise and Weight Loss Intervention on Insulin and Insulin Resistance in Breast Cancer Survivors"](https://pubmed.ncbi.nlm.nih.gov/34578984/). **Nutrients**, 13(9): 3108.
 
 - **Qiu, L.**, and Chinchilli, V. M. (2020). ["Probabilistic Canonical Correlation Analysis for High-dimensional
-Sparse Count Data"] **JSR Revision** [[arXiv]](https://arxiv.org/abs/2005.04837)[[Github]](https://github.com/lquvatexas?tab=repositories)
+Sparse Count Data"] **Journal of Statistical Research Revision** [[arXiv]](https://arxiv.org/abs/2005.04837)[[Github]](https://github.com/lquvatexas?tab=repositories)
 
 - **Qiu, L.**, Chinchilli, V. M., and Lin, L.  (2020). ["Deep Latent Variable Model for Learning Longitudinal Multi-view Data"] [[arXiv]](https://arxiv.org/abs/2005.05210)[[Github]](https://github.com/lquvatexas/DLGFA)
 
@@ -29,7 +29,7 @@ resistance against diamondback moth".](https://link.springer.com/article/10.1007
 
 - **Qiu, L.**, et al. (2022) ["Interpretable Deep Learning for the Mystery of Disease Progression"][**In submission Nature Methods**]
 
-- **Qiu, L.**, et al. (2022) ["Deep Pathology Genomic Multimodal Survival Prediction"]
+- **Qiu, L.**, et al. (2022) ["Deep Pathology Genomic Multimodal Survival Prediction"] [**In submission ICLR 2023**]
 
 
 
