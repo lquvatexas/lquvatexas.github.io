@@ -20,7 +20,7 @@ I work broadly in the areas of **Probabilistic Deep Learning**, **Causal Inferen
 
 Currently, I am working with [Genentech Research & Early Development (gRED)](https://www.gene.com)  as an AI Scientist.
 
-**AI Conference Program Committee**
+**Program Committee**
  AAAI 2023
 
 **Journal/AI Conference Reviewer**
