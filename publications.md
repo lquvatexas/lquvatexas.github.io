@@ -17,7 +17,7 @@ Sparse Count Data"]. **Journal of Statistical Research Revision** [[arXiv]](http
 
 - **Qiu, L.**, Sousa, V. S., and Llerena, N. L. (2022). ["Visual Tag Emerging Pattern Detection"](https://www.freepatentsonline.com/20220188548.pdf). US Patent App. 17/120, 933, 2022.
 
--  Alonzo, N. D.,  **Qiu, L.**, et al. (2021). ["WISER Survivor Trial: Combined Effect of Exercise and Weight Loss Intervention on Insulin and Insulin Resistance in Breast Cancer Survivors"] (https://pubmed.ncbi.nlm.nih.gov/34578984/). **Nutrients**, 13(9): 3108.
+-  Alonzo, N. D.,  **Qiu, L.**, et al. (2021). ["WISER Survivor Trial: Combined Effect of Exercise and Weight Loss Intervention on Insulin and Insulin Resistance in Breast Cancer Survivors"](https://pubmed.ncbi.nlm.nih.gov/34578984/). **Nutrients**, 13(9): 3108.
 
 - **Qiu, L.**, Wu, T. T., Dong, H., Wu, L. L., Cao, J. S., Huang, L. (2013). ["High-level expression of sporamin in transgenic Chinese cabbage enhances
 resistance against diamondback moth".](https://link.springer.com/article/10.1007/s11105-012-0536-1) **Plant Molecular Biology Reporter**, 31, 657-664.
