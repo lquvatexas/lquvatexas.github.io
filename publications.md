@@ -4,7 +4,7 @@ title: Publications
 ---
 
 
-- **Qiu, L.**, Lin, L., and Chinchilli, V. M.  (2022). ["Variational Interpretable Learning for Multi-View Data"] [[arXiv]](https://arxiv.org/abs/2202.13503)
+- **Qiu, L.**, Lin, L., and Chinchilli, V. M.  (2022). ["Variational Interpretable Learning for Multi-View Data"] (**AAAI 2023 Under Review**) [[arXiv]](https://arxiv.org/abs/2202.13503)
 
 - **Qiu, L.**, Chinchilli, V. M., and Lin, L.  (2022). ["Deep Latent Variable Model for Learning Longitudinal Multi-view Data"]. [[arXiv]](https://arxiv.org/abs/2005.05210)[[Github]](https://github.com/lquvatexas/DLGFA)
 
