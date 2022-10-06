@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 - **Qiu, L.**, et al. (2022) ["Interpretable Deep Learning for the Mystery of Disease Progression"]（**Nature Methods Under Review**）
-- 
+
 - **Qiu, L.**, et al. (2022) ["Deep Pathology Genomic Multimodal Survival Prediction"] (**ICLR 2023 Under Review**)
 
 - **Qiu, L.**, Lin, L., and Chinchilli, V. M.  (2022). ["Variational Interpretable Learning for Multi-View Data"]. (**AAAI 2023 Under Review**) [[arXiv]](https://arxiv.org/abs/2202.13503)
