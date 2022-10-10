@@ -12,7 +12,7 @@ title: Publications
 
 - **Qiu, L.**, Lin, L., and Chinchilli, V. M.  (2022). ["Variational Interpretable Deep Canonical Correlation Analysis"]. International Conference on Learning Representations, Machine Learning for Drug Discovery Workshop (**ICLR 2022**) [[arXiv]](https://openreview.net/forum?id=Gzare7_sTAJ&referrer=[the%20profile%20of%20Lin%20Qiu](/profile?id=~Lin_Qiu1))[<a href="/slides/MLDD_ICLR_poster.pdf" target="_blank">Slides</a>] 
 
-- **Qiu, L.**, Llerena, N. L., Sousa, V. S., Lin, L., and Chinchilli, V. M. (2022). ["NeurT-FDR: Controlling FDR by Incorporating Feature Hierarchy"]. ACM International Conference on Information and Knowledge Management (**CIKM 2022**) [[arXiv]](https://arxiv.org/abs/2101.09809)[[Github]](https://github.com/lquvatexas/NeurT-FDR)
+- **Qiu, L.**, Llerena, N. L., Sousa, V. S., Lin, L., and Chinchilli, V. M. (2022). ["Probabilistic Model Incorporating Auxiliary Covariates to Control FDR"]. ACM International Conference on Information and Knowledge Management (**CIKM 2022**) [[arXiv]](https://arxiv.org/abs/2210.03178)[[Github]](https://github.com/lquvatexas/NeurT-FDR)
 
 - **Qiu, L.**, Sousa, V. S., and Llerena, N. L. (2022). ["Visual Tag Emerging Pattern Detection"](https://www.freepatentsonline.com/20220188548.pdf). US Patent App. 17/120, 933, 2022.
 
