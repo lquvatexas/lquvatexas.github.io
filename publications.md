@@ -16,8 +16,8 @@ title: Publications
 
 - **Qiu, L.**, Sousa, V. S., and Llerena, N. L. (2022). ["Visual Tag Emerging Pattern Detection"](https://www.freepatentsonline.com/20220188548.pdf). US Patent App. 17/120, 933, 2022.
 
-- **Qiu, L.**, and Chinchilli, V. M. (2020). ["Probabilistic Canonical Correlation Analysis for High-dimensional
-Sparse Count Data"]. **Journal of Statistical Research Revision** [[arXiv]](https://arxiv.org/abs/2005.04837)[[Github]](https://github.com/lquvatexas?tab=repositories)
+- **Qiu, L.**, and Chinchilli, V. M. (2022). ["Probabilistic Canonical Correlation Analysis for High-dimensional
+Sparse Count Data"]. **Journal of Statistical Research (Accepted)** [[arXiv]](https://arxiv.org/abs/2005.04837)[[Github]](https://github.com/lquvatexas?tab=repositories)
 
 - **Qiu, L.**, Wu, T. T., Dong, H., Wu, L. L., Cao, J. S., Huang, L. (2013). ["High-level expression of sporamin in transgenic Chinese cabbage enhances
 resistance against diamondback moth".](https://link.springer.com/article/10.1007/s11105-012-0536-1) **Plant Molecular Biology Reporter**, 31, 657-664.
