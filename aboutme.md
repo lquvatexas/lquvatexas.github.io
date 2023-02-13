@@ -21,8 +21,8 @@ a career I will love, and let my imagination release imprisoned possibilities.
 - Graduate Conference Travel Award, 2019 Joint Statistical Meeting
 - Data Mining Cup International Student Competition, 3rd place among teams from U.S. Universities, 2018, Prudsys AG, Germany
 - Graduation Honor, top 5%, 2012, Zhejiang University 
-- First-Class Outstanding Scholarship (10%), 2011, Zhejiang University 
-- First-Class Outstanding Scholarship (10%), 2010, Zhejiang University 
+- First-Class Outstanding Scholarship (5%), 2011, Zhejiang University 
+- First-Class Outstanding Scholarship (5%), 2010, Zhejiang University 
 
 ### MARATHON
 
