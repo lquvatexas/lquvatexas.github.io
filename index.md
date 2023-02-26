@@ -7,7 +7,7 @@ order: 1
 
 **The existence of us lies purely on conditional probability.**
 
-Welcome to my personal homepage! Please reach out to me at lq666988@gmail.com if you have any questions about my research or just want to say "Hi". 
+Welcome to my personal homepage! Please reach out to me at lin.qiu.stats@gmail.com if you have any questions about my research or just want to say "Hi". 
 
 I obtained my Ph.D. degree from [The Pennsylvania State University](https://www.psu.edu), where I received rigorous training in both statistics and machine learning. I was mentored by [Dr. Vernon M. Chinchilli](https://pennstate.pure.elsevier.com/en/persons/vernon-chinchilli) and [Dr. Lin Lin](https://scholars.duke.edu/person/lin.l).
 
