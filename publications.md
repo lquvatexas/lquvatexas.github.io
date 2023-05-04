@@ -26,6 +26,7 @@ resistance against diamondback moth".](https://link.springer.com/article/10.1007
 ### Working papers:
 
 - **Qiu, L.**, et al. (2022) ["Bayesian Multiple-Hypothesis Testing for Multiple Groups and FDR Control"]
+- **Qiu, L.**, et al. (2023) ["Transformer Multimodal Learning on Pathway-informed Genomics and Pathology"]
 
 
 
