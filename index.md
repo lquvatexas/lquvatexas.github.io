@@ -14,9 +14,9 @@ I obtained my Ph.D. degree from [The Pennsylvania State University](https://www.
 I hold an M.S. in Statistics from the [University of Texas at Austin](https://www.utexas.edu), advised by 
 [Dr. Michael Daniels](http://users.stat.ufl.edu/~daniels/).
 
-Before that, I studied biology and applied mathematics at [Zhejiang University](https://en.wikipedia.org/wiki/Zhejiang_University). I am from Sichuan, China.
+Before that, I studied biology at [Zhejiang University](https://en.wikipedia.org/wiki/Zhejiang_University). I am from Sichuan, China.
 
-I work broadly in the areas of **Probabilistic Deep Learning**, **Causal Inference**, **Computer Vision**. Specifically, my research interests fall into: 1. Generative models in multimodal learning, with applications on multi-omics data and medical pathology images. 2. Vison-language model. 3. Casual inference. 
+I work broadly in the areas of **Probabilistic Deep Learning**, **Causal Inference**, **Computer Vision**. Specifically, my research interests fall into: 1. Generative models in multimodal learning, with applications on multi-omics data and medical pathology images. 2. Vison-language model. 3. Causal inference. 
 
 Currently, I am working with [Genentech Research & Early Development (gRED)](https://www.gene.com) as a Senior AI Research Scientist at the multimodal AI team.
 
