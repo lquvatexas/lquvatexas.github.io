@@ -25,7 +25,7 @@ Currently, I am working with [Genentech Research & Early Development (gRED)](htt
 
 **Journal/AI Conference Reviewer**
 
- AISTATS 2024 ICLR/AISTATS/ICML/AABI/NeurIPS 2023, NeurIPS/ICML/ICLR/AISTATS 2022, NeurIPS/AISTATS 2021, NeurIPS 2020
+ AISTATS 2024, ICLR/AISTATS/ICML/AABI/NeurIPS 2023, NeurIPS/ICML/ICLR/AISTATS 2022, NeurIPS/AISTATS 2021, NeurIPS 2020
 
 Statistical Analysis and Data Mining, Biopharmaceutical Statistics, Biostatistics
 
