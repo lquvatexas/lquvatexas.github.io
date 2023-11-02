@@ -26,7 +26,8 @@ resistance against diamondback moth".](https://link.springer.com/article/10.1007
 
 
 ### Working papers:
-- **Qiu, L.**, et al. (2023) ["Transformer Multimodal Learning on Pathway-informed Genomics and Pathology"]
+- **Qiu, L.**, et al. (2024) ["Transformer Multimodal Learning on Pathway-informed Genomics and Pathology"]
+- **Qiu, L.**, et al. (2024) ["Pathological vision-language model"]
 
 
 
