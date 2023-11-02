@@ -2,9 +2,13 @@
 layout: page
 title: Publications
 ---
-- **Qiu, L.**, et al. (2022) ["Interpretable Deep Learning for the Mystery of Disease Progression"]. (**Nature Methods Under Review**）
+- **Qiu, L.**, et al. (2023) ["Interpretable Deep Learning for the Mystery of Disease Progression"]. (**Nature Methods Under Revison**）
 
-- **Qiu, L.**, et al. (2022) ["Deep Pathology Genomic Multimodal Survival Prediction"][[arXiv]](https://arxiv.org/abs/2301.02383) (**Nature Machine Intelligence Under Review**)
+- **Qiu, L.**, et al. (2023) ["Deep Pathology Genomic Multimodal Survival Prediction"][[arXiv]](https://arxiv.org/abs/2301.02383) (**Nature Machine Intelligence Under Revison**)
+  
+- **Qiu, L.**, et al. (2023) ["Predicting Celluar Response from Interpretable Causual Inference"] (**AISTATS 2023 Under Review**)
+
+- **Qiu, L.**, et al. (2023) ["Variational Multi-view Learning"] (**AISTATS 2023 Under Review**)
 
 - **Qiu, L.**, Lin, L., and Chinchilli, V. M.  (2022). ["Variational Interpretable Learning for Multi-View Data"][[arXiv]](https://arxiv.org/abs/2202.13503) (**NeurIPS 2023 Under Review**)
 
@@ -24,10 +28,7 @@ resistance against diamondback moth".](https://link.springer.com/article/10.1007
 
 
 ### Working papers:
-
-- **Qiu, L.**, et al. (2022) ["Bayesian Multiple-Hypothesis Testing for Multiple Groups and FDR Control"]
 - **Qiu, L.**, et al. (2023) ["Transformer Multimodal Learning on Pathway-informed Genomics and Pathology"]
-- **Qiu, L.**, et al. (2023) ["Predicting Celluar Response from Interpretable Causual Inference"]
 
 
 
