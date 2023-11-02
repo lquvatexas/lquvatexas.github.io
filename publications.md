@@ -10,8 +10,6 @@ title: Publications
 
 - **Qiu, L.**, et al. (2023) ["Variational Multi-view Learning"] (**AISTATS 2023 Under Review**)
 
-- **Qiu, L.**, Lin, L., and Chinchilli, V. M.  (2022). ["Variational Interpretable Learning for Multi-View Data"][[arXiv]](https://arxiv.org/abs/2202.13503) (**NeurIPS 2023 Under Review**)
-
 - **Qiu, L.**, Chinchilli, V. M., and Lin, L.  (2022). ["Interpretable Deep Representation Learning from Temporal Multi-view Data"]. Asian Conference on Machine Learning (**ACML 2022 Long Oral**) [[arXiv]](https://proceedings.mlr.press/v189/qiu23a.html)[[Github]](https://github.com/lquvatexas/ITM-VAE)
 
 - **Qiu, L.**, Lin, L., and Chinchilli, V. M.  (2022). ["Variational Interpretable Deep Canonical Correlation Analysis"]. International Conference on Learning Representations, Machine Learning for Drug Discovery Workshop (**ICLR 2022**) [[arXiv]](https://openreview.net/forum?id=Gzare7_sTAJ&referrer=[the%20profile%20of%20Lin%20Qiu](/profile?id=~Lin_Qiu1))[<a href="/slides/MLDD_ICLR_poster.pdf" target="_blank">Slides</a>] 
