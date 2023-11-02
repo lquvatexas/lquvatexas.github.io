@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 ---
-- **Qiu, L.**, et al. (2023) ["Interpretable Deep Learning for the Mystery of Disease Progression"]. (**Nature Methods Under Revison**）
+- **Qiu, L.**, et al. (2023) ["Interpretable Deep Learning for the Mystery of Disease Progression"] (**Nature Methods Under Revison**）
 
 - **Qiu, L.**, et al. (2023) ["Deep Pathology Genomic Multimodal Survival Prediction"][[arXiv]](https://arxiv.org/abs/2301.02383) (**Nature Machine Intelligence Under Revison**)
   
