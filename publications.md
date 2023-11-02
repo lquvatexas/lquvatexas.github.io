@@ -6,7 +6,7 @@ title: Publications
 
 - **Qiu, L.**, et al. (2023) ["Deep Pathology Genomic Multimodal Survival Prediction"][[arXiv]](https://arxiv.org/abs/2301.02383) (**Nature Machine Intelligence Under Revison**)
   
-- **Qiu, L.**, et al. (2023) ["Predicting Celluar Response from Interpretable Causual Inference"] (**AISTATS 2023 Under Review**)
+- **Qiu, L.**, et al. (2023) ["Predicting Celluar Response from Interpretable Causal Inference"] (**AISTATS 2023 Under Review**)
 
 - **Qiu, L.**, et al. (2023) ["Variational Multi-view Learning"] (**AISTATS 2023 Under Review**)
 
