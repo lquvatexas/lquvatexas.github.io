@@ -18,7 +18,7 @@ Before that, I studied biology at [Zhejiang University](https://en.wikipedia.org
 
 I work broadly in the areas of **Probabilistic Deep Learning**, **Causal Inference**, **Computer Vision**. Specifically, my research interests fall into: 1. Generative models in multimodal learning, with applications on multi-omics data and medical pathology images. 2. Vision-language model. 3. Causal inference. 
 
-Currently, I am working with [Genentech Research & Early Development (gRED)](https://www.gene.com) as a Senior AI Research Scientist at the multimodal AI team.
+Currently, I am working with [Genentech Research & Early Development (gRED)](https://www.gene.com) as a Senior AI Research Scientist.
 
 **Program Committee**
  AAAI 2023, 2024
