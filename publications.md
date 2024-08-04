@@ -6,9 +6,9 @@ title: Publications
 
 - **Qiu, L.**, et al. (2023) ["Deep Pathology Genomic Multimodal Survival Prediction"][[arXiv]](https://arxiv.org/abs/2301.02383) (**Nature Machine Intelligence Under Revision**)
   
-- **Qiu, L.**, et al. (2023) ["Predicting Celluar Response from Interpretable Causal Inference"] (**ICML 2024 Under Review**)
+- **Qiu, L.**, et al. (2023) ["Predicting Celluar Response from Interpretable Causal Inference"] (**NeurIPS 2024 Under Review**)
 
-- **Qiu, L.**, et al. (2023) ["Variational Multi-view Learning"] (**Cell Patterns Under Review**)
+- **Qiu, L.**, et al. (2023) ["Variational Multi-view Learning"] (**KDD 2024 Under Review**)
 
 - **Qiu, L.**, Chinchilli, V. M., and Lin, L.  (2022). ["Interpretable Deep Representation Learning from Temporal Multi-view Data"]. Asian Conference on Machine Learning (**ACML 2022 Long Oral**) [[arXiv]](https://proceedings.mlr.press/v189/qiu23a.html)[[Github]](https://github.com/lquvatexas/ITM-VAE)
 
