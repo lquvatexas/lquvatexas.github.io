@@ -25,7 +25,7 @@ Currently, I am working with [Genentech Research & Early Development (gRED)](htt
 
 **Journal/AI Conference Reviewer**
 
- AISTATS 2025
+ AISTATS/ICLR 2025
  
  AISTATS/ICLR/ICML/NeurIPS 2024
  
