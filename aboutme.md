@@ -5,15 +5,15 @@ I worked with the innovation engine, [Snap Research](https://research.snap.com),
 I'm a marathon runner and music lover. 
 
 It is believed that the gods created the world full of magic and inexhaustible energy. To human beings, powers from
-three energy sources are the strongest - solar energy, love and imagination. Therefore I would like to chase
+three energy sources are the strongest - solar energy, love, and imagination. Therefore I would like to chase
 a career I will love, and let my imagination release imprisoned possibilities.
 
 ### EXPERIENCE:
 
-- Senior AI Scientist, [Genentech](https://www.gene.com), South San Francisco, CA, 02/2021 - <img align="right" src="/assets/img/company.png" alt="" width="200">
+- Senior Machine Learning Scientist, [Genentech](https://www.gene.com), South San Francisco, CA, 02/2021 - <img align="right" src="/assets/img/company.png" alt="" width="200">
 - Research Scientist Intern, [Snap Inc.](https://www.snap.com/en-US/), Santa Monica, CA,  08/2020 - 12/2020 
 - Machine Learning Intern, [AbbVie](https://www.abbvie.com), Cambridge, MA,  05/2019 - 08/2019 
-- Data Science Coporate Program, [Netspend](https://www.netspend.com), Austin, TX,  09/2015 - 12/2015
+- Data Science Corporate Program, [Netspend](https://www.netspend.com), Austin, TX,  09/2015 - 12/2015
 
 
 ### AWARDS:
