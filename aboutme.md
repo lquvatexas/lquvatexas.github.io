@@ -8,8 +8,8 @@ a career I will love, and let my imagination release imprisoned possibilities.
 
 ### EXPERIENCE:
 
-- Research Scientist, Meta, Menlo Park, CA, 12/2024 - 
-- Senior Machine Learning Scientist, [Genentech](https://www.gene.com), South San Francisco, CA, 02/2021 - <img align="right" src="/assets/img/company.png" alt="" width="200">
+- Research Scientist, [Meta](https://about.meta.com), Menlo Park, CA, 12/2024 - 
+- Senior Machine Learning Scientist, [Genentech](https://www.gene.com), South San Francisco, CA, 02/2021 - 12/2024
 - Research Scientist Intern, [Snap Inc.](https://www.snap.com/en-US/), Santa Monica, CA,  08/2020 - 12/2020 
 - Machine Learning Intern, [AbbVie](https://www.abbvie.com), Cambridge, MA,  05/2019 - 08/2019 
 - Data Science Corporate Program, [Netspend](https://www.netspend.com), Austin, TX,  09/2015 - 12/2015
