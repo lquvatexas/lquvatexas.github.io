@@ -10,7 +10,7 @@ title: Publications
 
 - Wu,M.H., Littman,R., Levine,J., **Qiu, L.**, Biancalani, T., Richmond,D., Huetter, JC. [Contextualizing biological perturbation experiments through language] (**Accepted at ICLR 2025**) [[arXiv]](https://openreview.net/pdf?id=5WEpbilssv)
 
-  - Wu,M.H., Littman,R., Levine,J., **Qiu, L.**, Biancalani, T., Richmond,D., Huetter, JC. [Contextualizing biological perturbation experiments through language], Foundation Models for Science Workshop (**NeurIPS 2024**) [[arXiv]](https://openreview.net/pdf?id=azZWLTVfGV)
+- Wu,M.H., Littman,R., Levine,J., **Qiu, L.**, Biancalani, T., Richmond,D., Huetter, JC. [Contextualizing biological perturbation experiments through language], Foundation Models for Science Workshop (**NeurIPS 2024**) [[arXiv]](https://openreview.net/pdf?id=azZWLTVfGV)
   
 - **Qiu, L.**, et al. ["Predicting Celluar Response from Interpretable Causal Inference"] (**NeurIPS 2024**) [[arXiv]](https://arxiv.org/abs/2410.22472)
 
