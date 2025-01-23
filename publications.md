@@ -7,6 +7,8 @@ title: Publications
 - **Qiu, L.**, et al. ["Deep Pathology Genomic Multimodal Survival Prediction"][[arXiv]](https://arxiv.org/abs/2301.02383) (**Nature Machine Intelligence Under Revision**)
 
 - **Qiu, L.**, et al. ["Variational Multi-view Learning"] (**AISTATS 2025 Under Review**)
+
+- Wu,M.H., Littman,R., Levine,J., **Qiu, L.**, Biancalani, T., Richmond,D., Huetter, JC. [Contextualizing biological perturbation experiments through language] (**Accepted at ICLR 2025**) [[arXiv]] (https://openreview.net/pdf?id=5WEpbilssv)
   
 - **Qiu, L.**, et al. ["Predicting Celluar Response from Interpretable Causal Inference"] (**NeurIPS 2024**) [[arXiv]](https://arxiv.org/abs/2410.22472)
 
