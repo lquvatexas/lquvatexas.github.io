@@ -16,7 +16,7 @@ I hold an M.S. in Statistics from the [University of Texas at Austin](https://ww
 
 Before that, I studied biology and statistics at [Zhejiang University](https://en.wikipedia.org/wiki/Zhejiang_University). I am from Sichuan, China.
 
-I work broadly in the areas of **Probabilistic Deep Learning**, **Causal Inference**, **Computer Vision**. Specifically, my research interests fall into: 1. Generative models in multimodal learning, with applications on multi-omics data and medical pathology images. 2. Vision-language model. 3. Causal representation learning and perturbation study 
+I work broadly in the areas of **Probabilistic Deep Learning**, **Sequence Model**, **Recommendation and Ranking**. Specifically, my research interests fall into: 1.Sequence model for recommendation/ranking 2. Generative models in multimodal learning 3. Vision-language model.
 
 Currently, I am working with Meta AI as a research scientist.
 
