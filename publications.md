@@ -2,13 +2,13 @@
 layout: page
 title: Publications
 ---
-- **Qiu, L.**, et al. ["Interpretable Deep Learning for the Mystery of Disease Progression"] (**Nature Methods Under Revision**）
+- **Qiu, L.**, et al. ["Dynamic Semantic Routing for Multimodal Sentiment Analysis"] (**CVPR 2026 Under Review**）
 
 - **Qiu, L.**, et al. ["Deep Pathology Genomic Multimodal Survival Prediction"][[arXiv]](https://arxiv.org/abs/2301.02383) (**Nature Machine Intelligence Under Revision**)
 
-- **Qiu, L.**, et al. ["Variational Multi-view Learning"] (**AISTATS 2025 Under Review**)
+- **Qiu, L.**, et al. ["Variational Multi-view Learning"] (**AISTATS 2026 Under Review**)
 
-- Wu,M.H., Littman,R., Levine,J., **Qiu, L.**, Biancalani, T., Richmond,D., Huetter, JC. [Contextualizing biological perturbation experiments through language] (**Accepted at ICLR 2025**) [[arXiv]](https://openreview.net/pdf?id=5WEpbilssv)
+- Wu,M.H., Littman,R., Levine,J., **Qiu, L.**, Biancalani, T., Richmond,D., Huetter, JC. [Contextualizing biological perturbation experiments through language] (**ICLR 2025**) [[arXiv]](https://openreview.net/pdf?id=5WEpbilssv)
 
 - Wu,M.H., Littman,R., Levine,J., **Qiu, L.**, Biancalani, T., Richmond,D., Huetter, JC. [Contextualizing biological perturbation experiments through language], Foundation Models for Science Workshop (**NeurIPS 2024**) [[arXiv]](https://openreview.net/pdf?id=azZWLTVfGV)
   
@@ -28,10 +28,6 @@ Sparse Count Data"]. **Journal of Statistical Research**, 56(1), 75–100.[[pape
 - **Qiu, L.**, Wu, T. T., Dong, H., Wu, L. L., Cao, J. S., Huang, L. (2013). ["High-level expression of sporamin in transgenic Chinese cabbage enhances
 resistance against diamondback moth".](https://link.springer.com/article/10.1007/s11105-012-0536-1) **Plant Molecular Biology Reporter**, 31, 657-664.
 
-
-### Working papers:
-- **Qiu, L.**, et al. (2024) ["Transformer Multimodal Learning on Pathway-informed Genomics and Pathology"]
-- **Qiu, L.**, et al. (2024) ["Pathological vision-language model"]
 
 
 
