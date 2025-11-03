@@ -14,7 +14,7 @@ I obtained my Ph.D. degree from [The Pennsylvania State University](https://www.
 I hold an M.S. in Statistics from the [University of Texas at Austin](https://www.utexas.edu), advised by 
 [Dr. Michael Daniels](http://users.stat.ufl.edu/~daniels/).
 
-Before that, I studied biology and statistics at [Zhejiang University](https://en.wikipedia.org/wiki/Zhejiang_University). I am from Sichuan, China.
+Before that, I studied biology and applied math at [Zhejiang University](https://en.wikipedia.org/wiki/Zhejiang_University). I am from Sichuan, China.
 
 I work broadly in the areas of **Probabilistic Deep Learning**, **Sequence Model**, **Recommendation and Ranking**. Specifically, my research interests fall into: 1.Sequence model for recommendation/ranking 2. Generative models in multimodal learning 3. Vision-language model.
 
@@ -25,6 +25,8 @@ Currently, I am working with Meta AI as a research scientist.
 
 **Journal/AI Conference Reviewer**
 
+ AISTATS/ICLR 2026
+ 
  AISTATS/ICLR 2025
  
  AISTATS/ICLR/ICML/NeurIPS 2024
