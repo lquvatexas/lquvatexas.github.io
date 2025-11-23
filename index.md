@@ -21,7 +21,9 @@ I work broadly in the areas of **Probabilistic Deep Learning**, **Sequence Model
 Currently, I am working with Meta AI as a research scientist.
 
 **Program Committee**
+
  CVPR 2026,
+ 
  AAAI 2023, 2024
 
 **Journal/AI Conference Reviewer**
