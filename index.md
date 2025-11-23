@@ -16,7 +16,7 @@ I hold an M.S. in Statistics from the [University of Texas at Austin](https://ww
 
 Before that, I studied biology and applied math at [Zhejiang University](https://en.wikipedia.org/wiki/Zhejiang_University). I am from Sichuan, China.
 
-I work broadly in the areas of **Probabilistic Deep Learning**, **Sequence Model**, **Recommendation and Ranking**. Specifically, my research interests fall into: 1.Sequence model for recommendation/ranking 2. Generative models in multimodal learning 3. Vision-language model.
+I work broadly in the areas of **Probabilistic Deep Learning**, **Sequence Model**, **Recommendation and Ranking**. Specifically, my research interests fall into: 1.Sequence model for recommendation/ranking 2.MoE 3.RL Vision-language model.
 
 Currently, I am working with Meta AI as a research scientist.
 
