@@ -2,6 +2,8 @@
 layout: page
 title: Publications
 ---
+- **Qiu, L.**, et al. [Visual Reasoning via Reinforcement Learning] (**In Preparationn**）
+
 - **Qiu, L.**, et al. ["Dynamic Semantic Routing for Multimodal Sentiment Analysis"] (**CVPR 2026 Under Review**）
 
 - **Qiu, L.**, et al. ["Deep Pathology Genomic Multimodal Survival Prediction"][[arXiv]](https://arxiv.org/abs/2301.02383) (**Nature Machine Intelligence Under Revision**)
