@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 ---
-- **Qiu, L.**, et al. [Visual Reasoning via Reinforcement Learning] (**In Preparationn**）
+- **Qiu, L.**, et al. [Visual Reasoning via Reinforcement Learning] (**In Preparation**）
 
 - **Qiu, L.**, et al. ["Dynamic Semantic Routing for Multimodal Sentiment Analysis"] (**CVPR 2026 Under Review**）
 
