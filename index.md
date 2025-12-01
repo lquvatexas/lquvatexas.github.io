@@ -22,7 +22,7 @@ Currently, I am working with Meta AI as a research scientist.
 
 **Program Committee**
 
- CVPR 2026,
+ CVPR 2026
  
  AAAI 2023, 2024
 
@@ -41,7 +41,5 @@ Currently, I am working with Meta AI as a research scientist.
  NeurIPS/AISTATS 2021
  
  NeurIPS 2020
-
-Statistical Analysis and Data Mining, Biopharmaceutical Statistics, Biostatistics
 
 <img src="/assets/img/bayesian_dl.png" alt="" width="800">
