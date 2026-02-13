@@ -2,13 +2,13 @@
 layout: page
 title: Publications
 ---
-- **Qiu, L.**, et al. [Visual Reasoning via Reinforcement Learning] (**In Preparation**）
+- **Qiu, L.**, et al. [Visual Reasoning via Reinforcement Learning] (**NeurIPS 2026 In Preparation**）
 
-- **Qiu, L.**, et al. ["Dynamic Semantic Routing for Multimodal Sentiment Analysis"] (**CVPR 2026 Under Review**）
+- **Qiu, L.**, et al. ["Dynamic Semantic Routing for Multimodal Sentiment Analysis"] (**ICML 2026 Under Review**）
 
 - **Qiu, L.**, et al. ["Deep Pathology Genomic Multimodal Survival Prediction"][[arXiv]](https://arxiv.org/abs/2301.02383) (**Nature Machine Intelligence Under Revision**)
 
-- **Qiu, L.**, et al. ["Variational Multi-view Learning"] (**AISTATS 2026 Under Review**)
+- **Qiu, L.**, et al. ["Variational Multi-view Learning"] (**AISTATS 2026**)
 
 - Wu,M.H., Littman,R., Levine,J., **Qiu, L.**, Biancalani, T., Richmond,D., Huetter, JC. [Contextualizing biological perturbation experiments through language] (**ICLR 2025**) [[arXiv]](https://openreview.net/pdf?id=5WEpbilssv)
 
