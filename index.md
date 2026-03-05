@@ -28,7 +28,7 @@ Currently, I am working with Meta AI as a research scientist.
 
 **Journal/AI Conference Reviewer**
 
- AISTATS/ICLR 2026
+ AISTATS/ICLR/ICML/ECCV 2026
  
  AISTATS/ICLR 2025
  
