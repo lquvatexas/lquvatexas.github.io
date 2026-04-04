@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 ---
-- **Qiu, L.**, et al. [Vison-Language Model Reasoning via Reinforcement Learning] (**NeurIPS 2026 In Preparation**）
+- **Qiu, L.**, et al. [Vision-Language Model Reasoning via Reinforcement Learning] (**NeurIPS 2026 In Preparation**）
 
 - **Qiu, L.**, et al. ["Dynamic Semantic Routing for Multimodal Sentiment Analysis"] (**ICML 2026 Under Review**）
 
