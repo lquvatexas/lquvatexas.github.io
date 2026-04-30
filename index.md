@@ -18,7 +18,7 @@ Before that, I studied biology and applied math at [Zhejiang University](https:/
 
 I work broadly in the areas of **LLM**, **VLM**, **Recommendation and Ranking**. Specifically, my research interests fall into: 1.Sequence model for recommendation/ranking  2.MoE for LLM efficiency   3.Reasoning-Oriented Post-Training for Vision-Language Models
 
-Currently, I am working with Meta AI as a research scientist.
+Currently, I am working with Meta Superintelligence Labs as a research scientist.
 
 **Program Committee**
 
