@@ -28,7 +28,7 @@ Currently, I am working with Meta Superintelligence Labs as a AI Research Scient
 
 **Journal/AI Conference Reviewer**
 
- AISTATS/ICLR/CVPR/ICML/ECCV 2026
+ AISTATS/ICLR/CVPR/ICML/ECCV/NeurIPS 2026
  
  AISTATS/ICLR 2025
  
