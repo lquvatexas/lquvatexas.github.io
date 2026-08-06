@@ -3,6 +3,8 @@ layout: page
 title: Publications
 ---
 
+- **Qiu, L.**, et al. ["Towards Better Visual Credit Assignment in Multimodal Reinforcement Learning"]
+
 - **Qiu, L.**, et al. ["DUEL: Adversarial Self-Play for Multimodal Reasoning"][[arXiv]](https://arxiv.org/abs/2605.24794)
 
 - **Qiu, L.**, et al. ["Deep Pathology Genomic Multimodal Survival Prediction"][[arXiv]](https://arxiv.org/abs/2301.02383) (**Nature Machine Intelligence Under Revision**)
