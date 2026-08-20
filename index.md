@@ -18,7 +18,7 @@ Before that, I studied biology and applied math at [Zhejiang University](https:/
 
 I work broadly in the areas of **LLM**, **VLM**, **Recommendation and Ranking**. Specifically, my research interests fall into: 1.RAG  2.On-Policy Self-Distillation for LLM   3.Reasoning-Oriented Post-Training for Vision-Language Models
 
-Currently, I am working with Meta Superintelligence Labs as a AI Research Scientist.
+Currently, I am working with Meta Superintelligence Labs as a Research Scientist.
 
 **Program Committee**
 
