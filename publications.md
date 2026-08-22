@@ -4,7 +4,7 @@ title: Publications
 ---
 
 - **Qiu, L.**, et al. ["Reinforcement Learning via On-Policy Self-Distillation"]
-- 
+  
 - **Qiu, L.**, et al. ["Towards Better Visual Credit Assignment in Multimodal Reinforcement Learning"]
 
 - **Qiu, L.**, et al. ["DUEL: Adversarial Self-Play for Multimodal Reasoning"][[arXiv]](https://arxiv.org/abs/2605.24794)
