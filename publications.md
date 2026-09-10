@@ -11,9 +11,9 @@ title: Publications
 
 - **Qiu, L.**, et al. ["Deep Pathology Genomic Multimodal Survival Prediction"][[arXiv]](https://arxiv.org/abs/2301.02383) (**Nature Machine Intelligence Under Revision**)
 
-- Diyi Hu, Ruizhong Qiu, **Lin Qiu**, Hanghang Tong, Hanqing Zeng.[ProbePO: Sparse Probes, Redistributed Credit for Critic-Free LLM Reinforcement Learning] (**NeurIPS 2026**)
+- Diyi Hu, Ruizhong Qiu, **Lin Qiu**, Hanghang Tong, Hanqing Zeng.["ProbePO: Sparse Probes, Redistributed Credit for Critic-Free LLM Reinforcement Learning"] (**NeurIPS 2026**)
 
-- Qinhong Zhou, Riley Zong, Chunru Lin, Shivraj Singh Bhatti, Hongxin Zhang, Diyi Hu, **Lin Qiu**, Hanqing Zeng, Chuang Gan. [HARP-Bench: Benchmarking Robot Manipulation Around Active Humans](**CoRL 2026**)
+- Qinhong Zhou, Riley Zong, Chunru Lin, Shivraj Singh Bhatti, Hongxin Zhang, Diyi Hu, **Lin Qiu**, Hanqing Zeng, Chuang Gan. ["HARP-Bench: Benchmarking Robot Manipulation Around Active Humans"](**CoRL 2026**)
 
 - **Qiu, L.**, et al. ["Variational Multi-view Learning"] (**AISTATS 2026**)
 
