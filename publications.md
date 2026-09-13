@@ -32,10 +32,6 @@ title: Publications
 - **Qiu, L.**, and Chinchilli, V. M. (2022). ["Probabilistic Canonical Correlation Analysis for High-dimensional
 Sparse Count Data"]. **Journal of Statistical Research**, 56(1), 75–100.[[paper]](https://www.banglajol.info/index.php/JStR/article/view/63947)[[Github]](https://github.com/lquvatexas?tab=repositories)
 
-- **Qiu, L.**, Wu, T. T., Dong, H., Wu, L. L., Cao, J. S., Huang, L. (2013). ["High-level expression of sporamin in transgenic Chinese cabbage enhances
-resistance against diamondback moth".](https://link.springer.com/article/10.1007/s11105-012-0536-1) **Plant Molecular Biology Reporter**, 31, 657-664.
-
-
 
 
 
