@@ -16,7 +16,7 @@ I hold an M.S. in Statistics from the [University of Texas at Austin](https://ww
 
 Before that, I studied biology and applied math at [Zhejiang University](https://en.wikipedia.org/wiki/Zhejiang_University). I am from Sichuan, China.
 
-I work broadly in the areas of **LLM**, **VLM**, **Recommendation and Ranking**. Specifically, my research interests fall into: 1.Reasoning-Oriented Post-Training for Vision-Language Models 2.RAG  3.On-Policy Distillation for LLM   
+I work broadly in the areas of **LLM Post-training**, **Agentic System**, **RL**. Specifically, my research interests fall into: 1.Reasoning-Oriented Post-Training for Vision-Language Models 2.RAG  3.On-Policy Distillation for LLM   
 
 Currently, I am working with Meta Superintelligence Labs as an AI Research Scientist.
 
