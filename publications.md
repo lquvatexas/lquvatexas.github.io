@@ -9,9 +9,9 @@ title: Publications
 
 - **Qiu, L.**, et al. ["DUEL: Adversarial Self-Play for Multimodal Reasoning"][[arXiv]](https://arxiv.org/abs/2605.24794)
 
-- Diyi Hu, Ruizhong Qiu, **Lin Qiu**, Hanghang Tong, Hanqing Zeng. ["ProbePO: Sparse Probes, Redistributed Credit for Critic-Free LLM Reinforcement Learning"] (**NeurIPS 2026**)
+- Diyi Hu, Ruizhong Qiu, **Lin Qiu**, Hanghang Tong, Hanqing Zeng. ["ProbePO: Sparse Probes, Redistributed Credit for Critic-Free LLM Reinforcement Learning"] [[arXiv]] (https://openreview.net/forum?id=MYghLxZ1AF&referrer=%5Bthe+profile+of+Hanghang+Tong%5D%28%2Fprofile%3Fid%3D%7EHanghang_Tong2%29)(**NeurIPS 2026**)
 
-- Qinhong Zhou, Riley Zong, Chunru Lin, Shivraj Singh Bhatti, Hongxin Zhang, Diyi Hu, **Lin Qiu**, Hanqing Zeng, Chuang Gan. ["HARP-Bench: Benchmarking Robot Manipulation Around Active Humans"] (**CoRL 2026**)
+- Qinhong Zhou, Riley Zong, Chunru Lin, Shivraj Singh Bhatti, Hongxin Zhang, Diyi Hu, **Lin Qiu**, Hanqing Zeng, Chuang Gan. ["HARP-Bench: Benchmarking Robot Manipulation Around Active Humans"][[arXiv]]() (**CoRL 2026**)
 
 - **Qiu, L.**, et al. ["Variational Multi-view Learning"] (**AISTATS 2026**)
 
